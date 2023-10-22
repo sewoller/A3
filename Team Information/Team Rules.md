@@ -1,5 +1,3 @@
-## Team Rules:
-
 1. Treat each other with respect
 2. Communicate known delays/emergencies/etc. with the group as soon as possible
 	1. i.e. if one is going to be late to a meeting, if one is struggling with their assigned work and need help, etc.
@@ -24,3 +22,7 @@
 	2. If in the evening, meet online
 	3. Record meetings (meeting notes, minutes) in google docs for future reference
 	4. Have a goal for each meeting, don’t create aimless meeting slots
+7. Work Standards:
+	1. All members must contribute to the project
+	2. All members must complete deliverables to the best of their ability
+	3. When a member is struggling, they must communicate to the group and ask for help and/or guidance
