@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "1d68798185e014d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Example Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "089c4c916bec6818",
             "type": "leaf",
             "state": {
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +184,10 @@
   },
   "active": "089c4c916bec6818",
   "lastOpenFiles": [
-    "Example Notes.md",
-    "Example Article.md",
     "Time Management.md",
-    "Attention.md",
-    "Deliverables 1.md"
+    "Deliverables 1.md",
+    "Example Article.md",
+    "Example Notes.md",
+    "Attention.md"
   ]
 }

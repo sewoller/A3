@@ -18,3 +18,5 @@ Goals:
 Helpful Links:
 https://obsidian.rocks/save-articles-to-obsidian-five-different-methods/
 https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git
+https://www.youtube.com/watch?v=QgbLb6QCK88 (How to use obsidian for beginners)
+
