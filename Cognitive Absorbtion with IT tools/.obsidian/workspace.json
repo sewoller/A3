@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "0a43afe8386c4587",
+    "type": "split",
+    "children": [
+      {
+        "id": "595c6220213b134f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fec5eff4f208998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb0225aed8b1ea0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea01dd0107a5e45c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bfee7c0b3666940",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7619fc16f4d19cd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98aa880e127ac1ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65b658a84769edbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c741274220a24a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f4310781ab9e54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17957132b6b74e55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "587cc88b79eda40a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c1f716da2b28d56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5fec5eff4f208998",
+  "lastOpenFiles": [
+    "Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Time Flies - Paper.pdf"
+  ]
+}
