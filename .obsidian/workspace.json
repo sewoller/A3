@@ -61,14 +61,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention.md",
+                "file": "Time Management.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc76a42904585c6f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Cognitive engineering  cognitive augmentation  and information display.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention.md",
+                "file": "Cognitive engineering  cognitive augmentation  and information display.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention.md",
+                "file": "Cognitive engineering  cognitive augmentation  and information display.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention.md"
+                "file": "Cognitive engineering  cognitive augmentation  and information display.pdf"
               }
             }
           }
@@ -195,11 +205,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58eea74b82672978",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
-    "Deliverable 1.md",
+    "Cognitive engineering, cognitive augmentation, and information display.md",
+    "Cognitive engineering  cognitive augmentation  and information display.pdf",
     "Time Management.md",
     "Attention.md",
+    "Deliverable 1.md",
     "Examples/Squirrels.md",
     "Examples/North America.md",
     "Team Information/Members.md",
