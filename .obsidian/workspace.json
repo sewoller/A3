@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deliverable 1.md",
+                "file": "Attention.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deliverable 1.md",
+                "file": "Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deliverable 1.md",
+                "file": "Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +174,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deliverable 1.md"
+                "file": "Attention.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,11 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "58eea74b82672978",
   "lastOpenFiles": [
+    "Deliverable 1.md",
     "Time Management.md",
     "Attention.md",
-    "Deliverable 1.md",
     "Examples/Squirrels.md",
     "Examples/North America.md",
     "Team Information/Members.md",
