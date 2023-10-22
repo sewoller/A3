@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0d3eea51077126c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "999c7f50cf6fc9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Deliverables 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1c49cb534be2d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deliverables 1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deliverables 1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deliverables 1.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -155,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "999c7f50cf6fc9b1",
+  "active": "a1c49cb534be2d7e",
   "lastOpenFiles": [
-    "Deliverables 1.md"
+    "Deliverables 1.md",
+    "Untitled.md"
   ]
 }
