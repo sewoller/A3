@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example Article.md",
+                "file": "Team Information/Team Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example Article.md",
+                "file": "Team Information/Team Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example Article.md",
+                "file": "Team Information/Team Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example Article.md"
+                "file": "Team Information/Team Rules.md"
               }
             }
           }
@@ -184,10 +184,13 @@
   },
   "active": "089c4c916bec6818",
   "lastOpenFiles": [
-    "Time Management.md",
+    "Examples/Squirrels.md",
+    "Examples/North America.md",
+    "Team Information/Team Rules.md",
     "Deliverables 1.md",
-    "Example Article.md",
-    "Example Notes.md",
+    "Examples",
+    "Team Information",
+    "Time Management.md",
     "Attention.md"
   ]
 }
