@@ -22,9 +22,8 @@ https://www.youtube.com/watch?v=QgbLb6QCK88 (How to use obsidian for beginners)
 
 |Member|Work Contribution|Other|
 |---|---|---|
-|Serena Wollersheim| Creation of the obsidian vault and github repo
-| |
-|William Bourgeois| | |
+|Serena Wollersheim| Creation of the obsidian vault and GitHub repo, spearmint article| |
+|William Bourgeois| Cognitive absorption with IT tools | |
 |Laura Paul| | |
-|Jordan Grubisich| | |
+|Jordan Grubisich| Attention in psychology, neuroscience, and machine learning| |
 |Baraa Daoud| | |
