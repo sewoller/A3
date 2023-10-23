@@ -4,81 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "84e52713168c6480",
+        "id": "f04449a65c7373ad",
         "type": "tabs",
         "children": [
           {
-            "id": "999c7f50cf6fc9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deliverable 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1c49cb534be2d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09cc6968fdb38852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "089c4c916bec6818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Team Information/Team Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f563343edbe157d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc76a42904585c6f",
+            "id": "951dc8bb5dafb9e7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf"
+                "file": "Cognitive engineering  cognitive augmentation  and information display.pdf"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,35 +78,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3cc262337cfc9e8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "58eea74b82672978",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "83b18973ddb07ea4",
             "type": "leaf",
             "state": {
@@ -177,23 +87,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "189fb2e1ffecd597",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,20 +105,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc76a42904585c6f",
+  "active": "951dc8bb5dafb9e7",
   "lastOpenFiles": [
-    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Cognitive engineering  cognitive augmentation  and information display.pdf",
+    "Deliverable 1.md",
+    "Attention.md",
+    "Time Management.md",
+    "Team Information/Team Rules.md",
     "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
+    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
     "Examples/North America.md",
     "Examples/Squirrels.md",
     "attention-enhancing effects of spearmint extract.pdf",
-    "Time Management.md",
     "Serena's Notes.md",
-    "Deliverable 1.md",
-    "Attention.md",
-    "Cognitive engineering  cognitive augmentation  and information display.pdf",
     "Team Information/Members.md",
-    "Team Information/Team Rules.md",
     "Cognitive Absorbtion with IT tools",
     "Examples",
     "Team Information"
