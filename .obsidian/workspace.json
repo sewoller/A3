@@ -8,72 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "999c7f50cf6fc9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Administrative Info/Deliverable 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1c49cb534be2d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09cc6968fdb38852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "089c4c916bec6818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Administrative Info/Team Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f563343edbe157d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc76a42904585c6f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf"
+                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -101,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administrative Info/Assignment 3 Deliverables.md",
+                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administrative Info/Assignment 3 Deliverables.md",
+                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administrative Info/Assignment 3 Deliverables.md"
+                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md"
               }
             }
           }
@@ -229,25 +170,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64ea5dd3faabf97d",
+  "active": "fc76a42904585c6f",
   "lastOpenFiles": [
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+    "Time Management.md",
+    "Administrative Info/Team Rules.md",
+    "Attention.md",
+    "Administrative Info/Deliverable 1.md",
+    "Administrative Info/Assignment 3 Deliverables.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Holstein et al. (2018).pdf",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers",
-    "Administrative Info/Deliverable 1.md",
-    "Administrative Info/Assignment 3 Deliverables.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
     "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
     "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
     "Examples/Squirrels.md",
     "Examples/North America.md",
-    "Administrative Info/Team Rules.md",
     "Administrative Info/Members.md",
-    "Attention.md",
-    "Time Management.md",
     "2023-10-22.md",
     "Cognitive engineering  cognitive augmentation  and information display.pdf",
     "Untitled.canvas",
