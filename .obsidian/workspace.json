@@ -4,11 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "f04449a65c7373ad",
+        "id": "84e52713168c6480",
         "type": "tabs",
         "children": [
           {
-            "id": "951dc8bb5dafb9e7",
+            "id": "999c7f50cf6fc9b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administrative Info/Deliverable 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1c49cb534be2d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09cc6968fdb38852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "089c4c916bec6818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administrative Info/Team Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f563343edbe157d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc76a42904585c6f",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -16,8 +76,33 @@
                 "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf"
               }
             }
+          },
+          {
+            "id": "2ecdea2b1c7c307a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administrative Info/Deliverable 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64ea5dd3faabf97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administrative Info/Assignment 3 Deliverables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -78,23 +163,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83b18973ddb07ea4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3971399376bda61d",
+            "id": "b3cc262337cfc9e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+                "file": "Administrative Info/Assignment 3 Deliverables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,33 +180,44 @@
             }
           },
           {
-            "id": "ee38c5fe21533216",
+            "id": "58eea74b82672978",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+                "file": "Administrative Info/Assignment 3 Deliverables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f0b5b03b32eac8ee",
+            "id": "83b18973ddb07ea4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "189fb2e1ffecd597",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf"
+                "file": "Administrative Info/Assignment 3 Deliverables.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,37 +229,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "951dc8bb5dafb9e7",
+  "active": "64ea5dd3faabf97d",
   "lastOpenFiles": [
-    "Deliverable 1.md",
-    "Administrative Info/Team Rules.md",
-    "Administrative Info/Members.md",
-    "Administrative Info/Deliverable 1.md",
-    "Administrative Info/Assignment 3 Deliverables.md",
-    "Administrative Info",
-    "Untitled.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Holstein et al. (2018).pdf",
-    "Holstein et al. (2018).pdf",
-    "Time Management.md",
-    "Untitled.canvas",
-    "conflict-files-obsidian-git.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation",
-    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers",
-    "Serena's Notes.md",
-    "Attention.md",
-    "Cognitive engineering  cognitive augmentation  and information display.pdf",
+    "Administrative Info/Deliverable 1.md",
+    "Administrative Info/Assignment 3 Deliverables.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
-    "attention-enhancing effects of spearmint extract.pdf",
     "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
+    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
     "Examples/Squirrels.md",
     "Examples/North America.md",
-    "Team Information/Team Rules.md",
-    "Team Information/Members.md",
-    "2023-10-22.md"
+    "Administrative Info/Team Rules.md",
+    "Administrative Info/Members.md",
+    "Attention.md",
+    "Time Management.md",
+    "2023-10-22.md",
+    "Cognitive engineering  cognitive augmentation  and information display.pdf",
+    "Untitled.canvas",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation",
+    "Attention in Psychology, Neuroscience, and Machine Learning",
+    "Cognitive Absorbtion with IT tools",
+    "Examples"
   ]
 }
