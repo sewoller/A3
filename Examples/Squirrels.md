@@ -1,1 +1,0 @@
-Did you know that squirrels hide their nuts in different places according to their "value"? For example, A high-value nut would be hidden or stored in a place with is harder to get to, therefore would be harder for other squirrels to steal. 

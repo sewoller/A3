@@ -88,9 +88,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64ea5dd3faabf97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administrative Info/Assignment 3 Deliverables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administrative Info/Deliverable 1.md",
+                "file": "Administrative Info/Assignment 3 Deliverables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administrative Info/Deliverable 1.md",
+                "file": "Administrative Info/Assignment 3 Deliverables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administrative Info/Deliverable 1.md"
+                "file": "Administrative Info/Assignment 3 Deliverables.md"
               }
             }
           }
@@ -217,8 +229,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "64ea5dd3faabf97d",
   "lastOpenFiles": [
+    "Administrative Info/Deliverable 1.md",
+    "Administrative Info/Assignment 3 Deliverables.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
@@ -229,13 +243,11 @@
     "Examples/North America.md",
     "Administrative Info/Team Rules.md",
     "Administrative Info/Members.md",
-    "Administrative Info/Deliverable 1.md",
     "Attention.md",
     "Time Management.md",
     "2023-10-22.md",
     "Cognitive engineering  cognitive augmentation  and information display.pdf",
     "Untitled.canvas",
-    "Untitled.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation",
     "Attention in Psychology, Neuroscience, and Machine Learning",
     "Cognitive Absorbtion with IT tools",
