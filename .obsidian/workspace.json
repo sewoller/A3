@@ -71,16 +71,26 @@
             "id": "fc76a42904585c6f",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf"
+              }
+            }
+          },
+          {
+            "id": "2ecdea2b1c7c307a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Deliverable 1.md",
+                "file": "Team Information/Members.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deliverable 1.md",
+                "file": "Team Information/Members.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deliverable 1.md",
+                "file": "Team Information/Members.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deliverable 1.md"
+                "file": "Team Information/Members.md"
               }
             }
           }
@@ -207,21 +217,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc76a42904585c6f",
+  "active": "2ecdea2b1c7c307a",
   "lastOpenFiles": [
-    "Attention.md",
     "Deliverable 1.md",
+    "Attention.md",
+    "Time Management.md",
+    "2023-10-22.md",
+    "Cognitive engineering  cognitive augmentation  and information display.pdf",
+    "Untitled.canvas",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
+    "Untitled.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation",
     "Team Information/Members.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Untitled.canvas",
-    "2023-10-22.md",
-    "Serena's Notes.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
     "Attention in Psychology, Neuroscience, and Machine Learning",
-    "attention-enhancing effects of spearmint extract.pdf",
-    "Cognitive engineering  cognitive augmentation  and information display.pdf",
     "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
-    "Time Management.md",
     "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
     "Cognitive Absorbtion with IT tools",
     "Examples/Squirrels.md",
