@@ -71,9 +71,11 @@
             "id": "fc76a42904585c6f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Cognitive engineering  cognitive augmentation  and information display.pdf"
+                "file": "Serena's Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive engineering  cognitive augmentation  and information display.pdf",
+                "file": "Serena's Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive engineering  cognitive augmentation  and information display.pdf",
+                "file": "Serena's Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive engineering  cognitive augmentation  and information display.pdf"
+                "file": "Serena's Notes.md"
               }
             }
           }
@@ -205,14 +207,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "fc76a42904585c6f",
   "lastOpenFiles": [
+    "attention-enhancing effects of spearmint extract.pdf",
+    "Time Management.md",
+    "Serena's Notes.md",
+    "Cognitive engineering  cognitive augmentation  and information display.pdf",
     "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
     "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
     "Cognitive Absorbtion with IT tools",
-    "Cognitive engineering, cognitive augmentation, and information display.md",
-    "Cognitive engineering  cognitive augmentation  and information display.pdf",
-    "Time Management.md",
     "Attention.md",
     "Deliverable 1.md",
     "Examples/Squirrels.md",
