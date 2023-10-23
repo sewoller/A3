@@ -4,22 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "f04449a65c7373ad",
+        "id": "84e52713168c6480",
         "type": "tabs",
         "children": [
           {
-            "id": "951dc8bb5dafb9e7",
+            "id": "999c7f50cf6fc9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+                "file": "Deliverable 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1c49cb534be2d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09cc6968fdb38852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "089c4c916bec6818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Team Information/Team Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f563343edbe157d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc76a42904585c6f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -80,23 +144,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83b18973ddb07ea4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3971399376bda61d",
+            "id": "b3cc262337cfc9e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,33 +161,44 @@
             }
           },
           {
-            "id": "ee38c5fe21533216",
+            "id": "58eea74b82672978",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f0b5b03b32eac8ee",
+            "id": "83b18973ddb07ea4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "189fb2e1ffecd597",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md"
+                "file": "Untitled.canvas"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,26 +210,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "951dc8bb5dafb9e7",
+  "active": "fc76a42904585c6f",
   "lastOpenFiles": [
-    "Deliverable 1.md",
+    "2023-10-22.md",
     "Serena's Notes.md",
-    "Time Management.md",
-    "Attention.md",
-    "Cognitive engineering  cognitive augmentation  and information display.pdf",
-    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
-    "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
-    "attention-enhancing effects of spearmint extract.pdf",
-    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
     "Untitled.canvas",
+    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
+    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "Attention in Psychology, Neuroscience, and Machine Learning",
+    "attention-enhancing effects of spearmint extract.pdf",
+    "Cognitive engineering  cognitive augmentation  and information display.pdf",
+    "Deliverable 1.md",
+    "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
+    "Time Management.md",
+    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Cognitive Absorbtion with IT tools",
+    "Attention.md",
     "Examples/Squirrels.md",
     "Examples/North America.md",
-    "Team Information/Team Rules.md",
     "Team Information/Members.md",
-    "2023-10-22.md",
-    "Attention in Psychology, Neuroscience, and Machine Learning",
-    "Cognitive Absorbtion with IT tools",
+    "Team Information/Team Rules.md",
     "Examples",
     "Team Information"
   ]
