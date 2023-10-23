@@ -71,14 +71,11 @@
             "id": "fc76a42904585c6f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Deliverable 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -149,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Deliverable 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Deliverable 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Deliverable 1.md"
               }
             }
           }
@@ -212,15 +209,16 @@
   },
   "active": "fc76a42904585c6f",
   "lastOpenFiles": [
+    "Team Information/Members.md",
+    "Deliverable 1.md",
+    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "Untitled.canvas",
     "2023-10-22.md",
     "Serena's Notes.md",
-    "Untitled.canvas",
     "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
-    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "Attention in Psychology, Neuroscience, and Machine Learning",
     "attention-enhancing effects of spearmint extract.pdf",
     "Cognitive engineering  cognitive augmentation  and information display.pdf",
-    "Deliverable 1.md",
     "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
     "Time Management.md",
     "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
@@ -228,7 +226,6 @@
     "Attention.md",
     "Examples/Squirrels.md",
     "Examples/North America.md",
-    "Team Information/Members.md",
     "Team Information/Team Rules.md",
     "Examples",
     "Team Information"

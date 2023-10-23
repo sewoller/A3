@@ -20,3 +20,10 @@ https://obsidian.rocks/save-articles-to-obsidian-five-different-methods/
 https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git
 https://www.youtube.com/watch?v=QgbLb6QCK88 (How to use obsidian for beginners)
 
+|Member|Work Contribution|Other|
+|---|---|---|
+|Serena Wollersheim| | |
+|William Bourgeois| | |
+|Laura Paul|lepaul@uvic.ca| |
+|Jordan Grubisich| jordangrubisich@gmail.com |CSC undergrad, background in business<br><br>Free Tuesday + Friday all day & After 3:30pm Mondays + Wednesdays.|
+|Baraa Daoud|baraa.h.dawod@gmail.com|SENG undergrad<br><br>any day besides monday|
