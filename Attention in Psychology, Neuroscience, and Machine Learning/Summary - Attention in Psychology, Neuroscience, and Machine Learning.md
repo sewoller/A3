@@ -13,4 +13,4 @@ This article details the different kinds of sensory attention:
 
 It also discusses at length the relationship between attention, decision making (executive control) and memory. The discussion is again focused primarily on the sharing of resources between these different modes of cognition.
 
-Finally the article goes into detail on how the models of attention mentioned above have been applied to 
+Finally the article goes into detail on how the knowledge of attention mentioned above have been applied to improve machine learning models including visual processing, natural language processing and multi-task computation. It continues to discuss applications of these theories including investigations into strategies we might employ to enhance attention in the future.
