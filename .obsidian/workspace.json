@@ -11,9 +11,11 @@
             "id": "951dc8bb5dafb9e7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "attention-enhancing effects of spearmint extract.pdf"
+                "file": "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attention-enhancing effects of spearmint extract.pdf",
+                "file": "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attention-enhancing effects of spearmint extract.pdf",
+                "file": "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attention-enhancing effects of spearmint extract.pdf"
+                "file": "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md"
               }
             }
           }
@@ -144,24 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "951dc8bb5dafb9e7",
   "lastOpenFiles": [
-    "Cognitive engineering  cognitive augmentation  and information display.pdf",
-    "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
-    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
-    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
-    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "attention-enhancing effects of spearmint extract.pdf",
-    "Untitled.canvas",
-    "Time Management.md",
-    "Serena's Notes.md",
     "Deliverable 1.md",
+    "Serena's Notes.md",
+    "Time Management.md",
+    "Attention.md",
+    "Cognitive engineering  cognitive augmentation  and information display.pdf",
+    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
+    "attention-enhancing effects of spearmint extract.pdf",
+    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
+    "Untitled.canvas",
     "Examples/Squirrels.md",
     "Examples/North America.md",
     "Team Information/Team Rules.md",
     "Team Information/Members.md",
     "2023-10-22.md",
-    "Attention.md",
     "Attention in Psychology, Neuroscience, and Machine Learning",
     "Cognitive Absorbtion with IT tools",
     "Examples",
