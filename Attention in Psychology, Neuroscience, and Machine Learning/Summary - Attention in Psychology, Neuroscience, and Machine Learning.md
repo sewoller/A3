@@ -1,0 +1,3 @@
+This paper discusses attention in the context of Neuroscience and Psychology and draw parallels to applications of attention in Machine Learning. It defines attention as the flexible control of limited computational resources. In the context of humans, computational resources would refer to our ability to carry out cognition. In the context of machine learning, computational resources relate more literally to the system resources available to perform computations.
+
+The interesting part of this article is how connections are drawn between models of human a
