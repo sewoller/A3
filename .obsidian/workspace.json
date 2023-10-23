@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deliverable 1.md",
+                "file": "Administrative Info/Deliverable 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Team Information/Team Rules.md",
+                "file": "Administrative Info/Team Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+                "file": "Administrative Info/Deliverable 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+                "file": "Administrative Info/Deliverable 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+                "file": "Administrative Info/Deliverable 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md"
+                "file": "Administrative Info/Deliverable 1.md"
               }
             }
           }
@@ -217,8 +217,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ecdea2b1c7c307a",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
+    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
@@ -226,9 +227,9 @@
     "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
     "Examples/Squirrels.md",
     "Examples/North America.md",
-    "Team Information/Team Rules.md",
-    "Team Information/Members.md",
-    "Deliverable 1.md",
+    "Administrative Info/Team Rules.md",
+    "Administrative Info/Members.md",
+    "Administrative Info/Deliverable 1.md",
     "Attention.md",
     "Time Management.md",
     "2023-10-22.md",
@@ -236,10 +237,9 @@
     "Untitled.canvas",
     "Untitled.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation",
-    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "Attention in Psychology, Neuroscience, and Machine Learning",
     "Cognitive Absorbtion with IT tools",
     "Examples",
-    "Team Information"
+    "Administrative Info"
   ]
 }
