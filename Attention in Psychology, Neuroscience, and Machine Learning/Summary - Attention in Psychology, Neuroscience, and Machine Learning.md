@@ -5,4 +5,12 @@ The interesting part of this article is how connections are drawn between models
 This article details the different kinds of sensory attention: 
 1) Visual-Spatial, 
 2) Visual Feature
-3) Other sensory modalities of attention including hearing
+3) Other sensory modalities of attention:
+	1) Hearing - [The Cocktail Party Effect / Problem](https://en.wikipedia.org/wiki/Cocktail_party_effect)
+	2) Somatosensory - Attention to touch
+	3) Taste
+	4) Combinations of sensory attention
+
+It also discusses at length the relationship between attention, decision making (executive control) and memory. The discussion is again focused primarily on the sharing of resources between these different modes of cognition.
+
+Finally the article goes into detail on how the models of attention mentioned above have been applied to 
