@@ -8,4 +8,5 @@ notes from [[attention-enhancing effects of spearmint extract.pdf]]
 	- Cognitive Assessments at each check-in
 	- sleep, mood, and quality of life assessments
 - Results
-	- improved attention
+	- improved attention by day 30, improvements were maintained for the remaining duration of the study
+	- 
