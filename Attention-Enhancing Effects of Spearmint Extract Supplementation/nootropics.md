@@ -9,3 +9,5 @@ Examples:
 - Spearmint [[attention-enhancing effects of spearmint extract.pdf]]
 	- improved attention
 	- improved sustained and complex attention
+- Ginkgo Biloba [[Nootropics as Cognitive Enhancers.pdf]]
+	- neuroprotective, antioxidant, anti-inflammatory
