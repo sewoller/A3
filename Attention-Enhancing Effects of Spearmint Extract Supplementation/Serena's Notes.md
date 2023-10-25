@@ -7,4 +7,5 @@ notes from [[attention-enhancing effects of spearmint extract.pdf]]
 	- daily diary entries
 	- Cognitive Assessments at each check-in
 	- sleep, mood, and quality of life assessments
-	- 
+- Results
+	- improved attention
