@@ -12,4 +12,3 @@ notes from [[attention-enhancing effects of spearmint extract.pdf]]
 	- improvements were shown in sustained and complex attention
 	- no significant sleep differences
 		- this is interesting because caffeine, which is another nootropic that improves attention, can significantly impact sleep
-	- 
