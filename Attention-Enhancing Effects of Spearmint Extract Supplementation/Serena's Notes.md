@@ -9,4 +9,7 @@ notes from [[attention-enhancing effects of spearmint extract.pdf]]
 	- sleep, mood, and quality of life assessments
 - Results
 	- improved attention by day 30, improvements were maintained for the remaining duration of the study
+	- improvements were shown in sustained and complex attention
+	- no significant sleep differences
+		- this is interesting because caffeine, which is another nootropic that improves attention, can significantly impact sleep
 	- 
