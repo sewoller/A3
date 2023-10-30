@@ -30,33 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2ecdea2b1c7c307a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfe5fd403bdba9e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wearable Technology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wearable Technology.md",
+                "file": "Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wearable Technology.md",
+                "file": "Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wearable Technology.md"
+                "file": "Attention.md"
               }
             }
           }
@@ -183,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfe5fd403bdba9e1",
+  "active": "fc76a42904585c6f",
   "lastOpenFiles": [
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Attention.md",
     "Wearable Technology.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
@@ -196,7 +172,6 @@
     "Administrative Info/Assignment 3 Deliverables.md",
     "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Cognition.md",
     "Time Management.md",
