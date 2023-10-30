@@ -11,8 +11,12 @@
             "id": "fc76a42904585c6f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Attention.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
+                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Attention.md"
+              }
             }
           }
         ],
@@ -152,26 +160,26 @@
   },
   "active": "fc76a42904585c6f",
   "lastOpenFiles": [
-    "Attention.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Wearable Technology.md",
-    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
+    "Attention.md",
     "Administrative Info/Deliverable 1.md",
     "Administrative Info/Team Rules.md",
     "Administrative Info/Members.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
+    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
+    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
     "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
     "Administrative Info/Assignment 3 Deliverables.md",
     "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Cognition.md",
     "Time Management.md",
-    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "2023-10-22.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Holstein et al. (2018).pdf",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers",
-    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
     "Examples/Squirrels.md",
     "Examples/North America.md",
     "Cognitive engineering  cognitive augmentation  and information display.pdf",
