@@ -2,12 +2,13 @@
 
 There are many types of attention that are used in different circumstances. 
 - **Focused Attention**: focus on a stimulus, often external
-	- i.e. notice an alarm going off
+	- i.e. notice an alarm going off, find the source and reason
 - **Sustained Attention**: focus on a single stimulus for a period of time
 	- i.e. test-taking
 - **Selective Attention**: focus on one stimulus while ignoring others
 	- i.e. working while in a coffeeshop
 - **Alternating Attention**: change attention between two or more stimuli
-	- i.e. cooking
+	- i.e. taking care of kids
 - **Divided (Limited) Attention**: multitasking, attend to multiple stimuli concurrently 
 	- i.e. driving a car
+
