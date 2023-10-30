@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfe5fd403bdba9e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wearable Technology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention.md",
+                "file": "Wearable Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention.md",
+                "file": "Wearable Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention.md"
+                "file": "Wearable Technology.md"
               }
             }
           }
@@ -171,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ecdea2b1c7c307a",
+  "active": "cfe5fd403bdba9e1",
   "lastOpenFiles": [
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
     "Attention.md",
+    "Wearable Technology.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
     "Administrative Info/Deliverable 1.md",
     "Administrative Info/Team Rules.md",
     "Administrative Info/Members.md",
