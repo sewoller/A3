@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "08076fce92354e57",
+        "id": "84e52713168c6480",
         "type": "tabs",
         "children": [
           {
-            "id": "1c680e2217537cce",
+            "id": "fc76a42904585c6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+                "file": "Attention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4191cebf3e299356",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ecdea2b1c7c307a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administrative Info/Deliverable 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64ea5dd3faabf97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administrative Info/Assignment 3 Deliverables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,6 +113,33 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b3cc262337cfc9e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58eea74b82672978",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "83b18973ddb07ea4",
             "type": "leaf",
             "state": {
@@ -89,13 +149,21 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "189fb2e1ffecd597",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -107,27 +175,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c680e2217537cce",
+  "active": "4191cebf3e299356",
   "lastOpenFiles": [
-    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
-    "Untitled.canvas",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
     "2023-10-22.md",
+    "Cognition.md",
+    "Administrative Info/Deliverable 1.md",
+    "Administrative Info/Team Rules.md",
+    "Administrative Info/Members.md",
+    "Administrative Info/Assignment 3 Deliverables.md",
+    "Attention.md",
+    "Time Management.md",
+    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
+    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Holstein et al. (2018).pdf",
+    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers",
     "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Deliverable 1.md",
+    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
     "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
     "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
-    "Team Information/Members.md",
-    "Team Information/Team Rules.md",
-    "Attention.md",
-    "Cognitive engineering  cognitive augmentation  and information display.pdf",
-    "Serena's Notes.md",
-    "Time Management.md",
-    "attention-enhancing effects of spearmint extract.pdf",
-    "Attention in Psychology, Neuroscience, and Machine Learning",
-    "Examples/North America.md",
     "Examples/Squirrels.md",
-    "Cognitive Absorbtion with IT tools",
-    "Examples",
-    "Team Information"
+    "Examples/North America.md",
+    "Cognitive engineering  cognitive augmentation  and information display.pdf",
+    "Untitled.canvas",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation",
+    "Attention in Psychology, Neuroscience, and Machine Learning",
+    "Cognitive Absorbtion with IT tools"
   ]
 }

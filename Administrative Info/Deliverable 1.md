@@ -14,9 +14,15 @@ Goals:
 - Validate that the GitHub repository is working for everyone
 - Find options for the Assignment 3 topic
 
-
 Helpful Links:
 https://obsidian.rocks/save-articles-to-obsidian-five-different-methods/
 https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git
 https://www.youtube.com/watch?v=QgbLb6QCK88 (How to use obsidian for beginners)
 
+|Member|Work Contribution|Other|
+|---|---|---|
+|Serena Wollersheim| Creation of the obsidian vault and GitHub repo, spearmint article| |
+|William Bourgeois| Cognitive absorption with IT tools | |
+|Laura Paul| | |
+|Jordan Grubisich| Attention in psychology, neuroscience, and machine learning| |
+|Baraa Daoud| | |
