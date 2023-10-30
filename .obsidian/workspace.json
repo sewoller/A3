@@ -11,12 +11,8 @@
             "id": "fc76a42904585c6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attention.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Attention.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,8 +152,8 @@
   },
   "active": "fc76a42904585c6f",
   "lastOpenFiles": [
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Attention.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Wearable Technology.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
