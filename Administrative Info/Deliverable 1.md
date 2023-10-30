@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=QgbLb6QCK88 (How to use obsidian for beginners)
 |---|---|---|
 |Serena Wollersheim| Creation of the obsidian vault and GitHub repo, spearmint article| |
 |William Bourgeois| Cognitive absorption with IT tools | |
-|Laura Paul| | |
+|Laura Paul| The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary | |
 |Jordan Grubisich| Attention in psychology, neuroscience, and machine learning| |
 |Baraa Daoud| | |
+
