@@ -1,3 +1,3 @@
 [Attention](https://dictionary.cambridge.org/dictionary/english/attention#google_vignette) is defined as notice, thought, or interest. In a neuroscience context, it is described as [the ability to actively process specific information in the environment while tuning out other details.](https://verywellmind.com/what-is-attention-2795009) The process of attention, and what gives us the ability to choose what to focus on, is a mystery in the field of neuroscience that many have tried to unravel. Since attention is such an important part of learning and skill, people have frequently tried to enhance their attention in many different ways. 
 
-There are many types of attention that are used in different circumstances
+There are many types of attention that are used in different circumstances. 
