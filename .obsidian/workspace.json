@@ -23,8 +23,12 @@
             "id": "4191cebf3e299356",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md"
+              }
             }
           }
         ],
@@ -177,9 +185,9 @@
   },
   "active": "4191cebf3e299356",
   "lastOpenFiles": [
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Serena's Notes.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
     "2023-10-22.md",
     "Cognition.md",
