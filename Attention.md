@@ -5,4 +5,4 @@ There are many types of attention that are used in different circumstances.
 - **Sustained Attention**: The ability to attend to a stimulus or activity over a long period of time.
 - **Selective Attention**: The ability to attend to a specific stimulus or activity in the presence of other distracting stimuli.
 - **Alternating Attention**: The ability to change focus attention between two or more stimuli.
-- [**Divided Attention**](https://www.cognifit.com/science/cognitive-skills/divided-attention): The ability to attend different stimuli or attention at the same time.
+- Divided (Limited) Attention: multitasking, attend to multiple stimuli concurrently
