@@ -1,1 +1,1 @@
-[Attention](https://dictionary.cambridge.org/dictionary/english/attention#google_vignette) is defined as notice, thought, or interest. In a neuroscience 
+[Attention](https://dictionary.cambridge.org/dictionary/english/attention#google_vignette) is defined as notice, thought, or interest. In a neuroscience context, it is described as [the ability to actively process specific information in the environment while tuning out other details.](https://verywellmind.com/what-is-attention-2795009) 
