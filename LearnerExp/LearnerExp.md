@@ -3,4 +3,6 @@ This research carried out in 2019 looked to identify how different [time managem
 Using data collected from a university Learning Management System (LMS), researchers first developed consistent methods for visualizing the data. This data consisted of logs which detailed each individual learners interaction with the LMS including:
 	1) Engagement with course content (Videos, slide decks, etc.)
 	2) Time spent attending remote lectures
-	3) Time spent colla
+	3) Amount of interaction with other learners on the platform (chat & forum interaction)
+
+This data was used to create an "Activity Vector" which was recorded for each learner each day to create a calendar like display plotting the 
