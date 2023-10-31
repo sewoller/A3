@@ -11,12 +11,8 @@
             "id": "031e44cfbbb264a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LearnerExp/LearnerExp.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LearnerExp/LearnerExp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LearnerExp/LearnerExp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LearnerExp/LearnerExp.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,11 +141,19 @@
   },
   "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
+    "Systems (prospective).md",
+    "conflict-files-obsidian-git.md",
+    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+    "Machine Learning (Potential ref page).md",
     "LearnerExp/LearnerExp.md",
+    "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
+    "Screenshot 2023-10-31 at 2.42.01 PM.png",
+    "Screenshot 2023-10-31 at 2.41.51 PM.png",
+    "Screenshot 2023-10-31 at 2.41.39 PM.png",
     "the Plan System/Wiese, Lund, and Kabir (2023).pdf",
     "the Plan System/the Plan System.md",
     "the Plan System",
-    "Systems (prospective).md",
     "Lumilo/Lumilo.md",
     "Lumilo/Holstein et al. (2018).pdf",
     "Lumilo",
@@ -163,11 +163,7 @@
     "Guidelines for Future Time Management Systems",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Attention.md",
-    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "A Tangible Approach to Time Management/2638728.2638794.pdf",
-    "A Tangible Approach to Time Management",
-    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
-    "Machine Learning (Potential ref page).md",
     "Cognition.md",
     "Time Management.md",
     "Wearable Technology.md",
