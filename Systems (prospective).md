@@ -1,4 +1,7 @@
 Systems for supporting[[ attention]] through [[time management]] include:
 1. [[LearnerExp]]
 2. [[the Plan System]]
-3. 
+3. [[A Tangible Approach to Time Management]]
+4. [[Intelligent Personal Assistants as Time Management Tools]]
+5. [[Lumilo]]
+6. 
