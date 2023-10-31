@@ -13,5 +13,5 @@ Individual Time Management refers to ways in which an IPA could help a user mana
 
 Multiparty Interaction refers to tasks that would require interaction not only between and IPA and its user but also other humans and potentially their IPAs as well. Examples of these tasks include asking your IPA to schedule a meeting with a colleague or proactively sending an email to notify of a late arrival if the user is running behind schedule. Several criticisms of this functionality were noted in the discussion which largely involved privacy concerns associated with the sharing of calendars. Another criticism was raised which related to the social implication of having and IPA act on your behalf. One expert mentioned that it may be perceived as rude or insincere to have an artificial assistant schedule a meeting on a users behalf.
 
-The third category titled H
+The third category titled Human-Assistant Interaction, refers to an IPAs ability to sense contextual clues for the most effective way to interact with its user. The authors give the example of an IPA understanding when a user is driving and consequently giving notifications or re
 
