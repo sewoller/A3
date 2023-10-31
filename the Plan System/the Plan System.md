@@ -1,10 +1,6 @@
 Based on previous work by [[Lund and Wiese (2021).pdf]] that examined time planning strategies and created [[Guidelines for Future Time Management Systems]], [[Wiese, Lund, and Kabir (2023).pdf]] created the ‘Plan’ application.
 
 Unique for its unstructured approach to [[Time Management]], the ‘Plan’ system developed by [[Wiese, Lund, and Kabir (2023).pdf]] is, in essence, an augmented text editor. Users are presented with a blank page for each day that they can use as they see fit, with additional functionality added to support the assignment of times to tasks, task reminders, checkboxes, and integration with third party applications like Canvas, while taking advantage of the flexibility of a text editor for ease of moving tasks and autonomy in how to plan.
- Exam
-![[Screenshot 2023-10-31 at 2.41.39 PM.png]]
-![[Screenshot 2023-10-31 at 2.42.01 PM.png]]
-![[Screenshot 2023-10-31 at 2.41.51 PM.png]]
 
 [[Wiese, Lund, and Kabir (2023).pdf]] validated the usefulness of ‘Plan’ by examining in two phases how first year university students used it to plan their activities. First, they compared a week of planning with the students’ prior practice to a week of planning with ‘Plan’, then they examined how students’ used ‘Plan’ in their normal lives for at least a month. Results were mixed, as people who had already established planning practices generally found ‘Plan’ helpful and easy to use, supporting their pre-existing planning workflow and some additional better practices, while people without established planning practices wanted more structure to help them plan their day more consistently.
 
@@ -17,3 +13,9 @@ Ultimately, [[Wiese, Lund, and Kabir (2023).pdf]] found that people each plan in
 - While most applications created for time management are structured, a more flexible and unstructured system can be beneficial for people who already have some experience with planning.
 - Unstructured systems can also have drawbacks, as they can be cumbersome and may not provide the visualizations that users want.
 - Different systems work well for different people, and people tend to only continue to use the application if it works well for them.
+
+
+**Examples of System**
+![[Screenshot 2023-10-31 at 2.41.39 PM.png]]
+![[Screenshot 2023-10-31 at 2.42.01 PM.png]]
+![[Screenshot 2023-10-31 at 2.41.51 PM.png]]
