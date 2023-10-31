@@ -1,4 +1,4 @@
-
+Supports for [[Time Management]] and [[Attention]] have been studied for decades, and can vary from paper planners and their software equivalents to ubiquitous sysmte
 
 
 Guidelines/Background:
