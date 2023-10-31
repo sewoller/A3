@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guidelines for Future Time Management Systems.md",
+                "file": "the Plan System/the Plan System.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guidelines for Future Time Management Systems.md",
+                "file": "the Plan System/the Plan System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guidelines for Future Time Management Systems.md",
+                "file": "the Plan System/the Plan System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guidelines for Future Time Management Systems.md"
+                "file": "the Plan System/the Plan System.md"
               }
             }
           }
@@ -160,10 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a38f176bab25040",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
-    "LearnerExp/LearnerExp.md",
+    "the Plan System",
     "Guidelines for Future Time Management Systems.md",
+    "the Plan System/the Plan System.md",
+    "planners.md",
+    "wearable devices.md",
+    "Wearable Technology.md",
+    "LearnerExp/LearnerExp.md",
     "Attention.md",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "A Tangible Approach to Time Management/2638728.2638794.pdf",
@@ -174,7 +179,6 @@
     "Machine Learning (Potential ref page).md",
     "Cognition.md",
     "Time Management.md",
-    "Wearable Technology.md",
     "().md",
     "LearnerExp/3308558.3314140.pdf",
     "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
@@ -194,7 +198,6 @@
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
     "Administrative Info/Assignment 3 Deliverables.md",
     "2023-10-22.md",
-    "Examples/Squirrels.md",
-    "Examples/North America.md"
+    "Examples/Squirrels.md"
   ]
 }
