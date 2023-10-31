@@ -1,3 +1,6 @@
+Guidelines/Background:
+- [[Guidelines for Future Time Management Systems]]
+
 Systems for supporting [[attention]] through [[time management]] include:
 1. [[LearnerExp]]
 2. [[the Plan System]]
