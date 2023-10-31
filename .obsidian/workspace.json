@@ -11,15 +11,26 @@
             "id": "5ef785032f1e3e9d",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A Tangible Approach to Time Management/2638728.2638794.pdf"
+              }
+            }
+          },
+          {
+            "id": "d3a4ef0ed2a444da",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md"
+                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md"
               }
             }
           }
@@ -147,11 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ef785032f1e3e9d",
+  "active": "d3a4ef0ed2a444da",
   "lastOpenFiles": [
+    "A Tangible Approach to Time Management/2638728.2638794.pdf",
+    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "A Tangible Approach to Time Management",
+    "Unconfirmed 745148.crdownload",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
     "Attention.md",
-    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Cognition.md",
     "Machine Learning (Potential ref page).md",
     "Wearable Technology.md",
@@ -174,9 +189,6 @@
     "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Untitled.canvas",
-    "LearnerExp/Unconfirmed 160493.crdownload",
-    "LearnerExp",
-    "Voice Assistant Aided Time Management",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
     "Administrative Info/Assignment 3 Deliverables.md",
     "2023-10-22.md",
