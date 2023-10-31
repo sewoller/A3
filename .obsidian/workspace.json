@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "84e52713168c6480",
+        "id": "70f7faf409277121",
         "type": "tabs",
         "children": [
           {
-            "id": "fc76a42904585c6f",
+            "id": "5ef785032f1e3e9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LearnerExp/LearnerExp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "031e44cfbbb264a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attention.md",
+                "file": "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention.md",
+                "file": "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention.md",
+                "file": "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention.md"
+                "file": "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md"
               }
             }
           }
@@ -160,38 +147,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031e44cfbbb264a5",
+  "active": "5ef785032f1e3e9d",
   "lastOpenFiles": [
-    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
-    "Voice Assistant Aided Time Management/3571884.3604317.pdf",
-    "Voice Assistant Aided Time Management",
-    "Machine Learning (Potential ref page).md",
-    "Cognition.md",
-    "Time Management.md",
-    "Wearable Technology.md",
     "LearnerExp/LearnerExp.md",
-    "().md",
-    "LearnerExp/3308558.3314140.pdf",
+    "Voice Assistant Aided Time Management/3571884.3604317.pdf",
+    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "Voice Assistant Aided Time Management/Unconfirmed 976883.crdownload",
+    "Machine Learning (Potential ref page).md",
     "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
-    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
-    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Administrative Info/Team Rules.md",
-    "Administrative Info/Deliverable 1.md",
-    "Attention.md",
-    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+    "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
+    "LearnerExp/3308558.3314140.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
+    "This.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+    "Administrative Info/Deliverable 1.md",
+    "Administrative Info/Team Rules.md",
+    "Administrative Info/Members.md",
+    "().md",
+    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
+    "Time Management.md",
+    "Wearable Technology.md",
+    "Cognition.md",
+    "Attention.md",
+    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Untitled.canvas",
     "LearnerExp/Unconfirmed 160493.crdownload",
     "LearnerExp",
-    "Administrative Info/Members.md",
+    "Voice Assistant Aided Time Management",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
     "Administrative Info/Assignment 3 Deliverables.md",
-    "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
     "2023-10-22.md",
-    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Holstein et al. (2018).pdf",
     "Examples/Squirrels.md",
     "Examples/North America.md"
   ]
