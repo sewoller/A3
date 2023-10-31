@@ -1,4 +1,4 @@
-Some existing systems for supporting [[attention]] through [[time management]] include:
+Some existing systems for [[Computing for Cognitive Augmentation of Time Management and Attention]] include:
 1. [[LearnerExp]]
 2. [[The Plan System]]
 3. [[A Tangible Approach to Time Management]]
