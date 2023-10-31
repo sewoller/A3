@@ -19,16 +19,13 @@
             "id": "9b9a016a6061b1e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-                "mode": "source",
-                "source": false
+                "file": "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,10 +149,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b9a016a6061b1e1",
+  "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
-    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
+    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "Administrative Info/Deliverable 1.md",
     "conflict-files-obsidian-git.md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
