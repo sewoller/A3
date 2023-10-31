@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LearnerExp/LearnerEXP.md",
+                "file": "LearnerExp/LearnExp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LearnerExp/LearnerEXP.md",
+                "file": "LearnerExp/LearnExp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LearnerExp/LearnerEXP.md",
+                "file": "LearnerExp/LearnExp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LearnerExp/LearnerEXP.md"
+                "file": "LearnerExp/LearnExp.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58eea74b82672978",
+  "active": "fc76a42904585c6f",
   "lastOpenFiles": [
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
-    "LearnerExp/LearnerEXP.md",
+    "LearnerExp/LearnExp.md",
     "LearnerExp",
     "Voice Assistant Aided Time Management",
     "Attention.md",
