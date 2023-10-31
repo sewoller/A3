@@ -14,4 +14,5 @@ In the future the researchers state that they look to develop more features into
 
 **Key Points**
 	- As online and remote learning become more common, challenges to time management and course engagement become more prevalent.
-	- pre-existing data from LMS can be used to create ML models for analysing trends in
+	- pre-existing data from LMS can be used to create ML models for analyzing trends in time management behaviors and predict course performance.
+	- Insights into the effect time management has on course performance can be used to inform future time management strategies.
