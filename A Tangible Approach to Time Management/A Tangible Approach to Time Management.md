@@ -1,1 +1,1 @@
-This paper, [[]]
+This paper, [[2638728.2638794.pdf]], describes a system that experiments with the the effects of a physical representation of time in time management. Their theory is that, because time is subjective and hard to represent internally, the flawed human perception of the passage of time can be detrimental to time management skills. Their proposed solution is a physic
