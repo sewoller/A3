@@ -10,4 +10,7 @@ The data was used to train a machine learning (ML) model which is used by the Le
 
 This ML model was incorporated into an interactive dashboard that is designed to provide course administrators tools for visualizing the time management and engagement of their students. The dashboard was designed to provide a way for educators to visualize time management trends among groups of learners and identify individuals or groups of students who may be at risk of failing upcoming assessments.
 
-In the future the researchers state that they look to develop more features into LearnerExp and further improve its ML models for GPA prediction. Further investigation into time management patters and their impact on academic performance has the potential to create systems that can actively inform and adjust student study behavior to positively affect t
+In the future the researchers state that they look to develop more features into LearnerExp and further improve its ML models for GPA prediction. Further investigation into time management patters and their impact on academic performance has the potential to create systems that can actively inform and adjust student study behavior to provide a more effective education experience.
+
+**Key Points**
+	-
