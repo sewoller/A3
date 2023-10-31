@@ -7,5 +7,5 @@ Unique for its unstructured approach to [[Time Management]], the ‘Plan’ syst
 In general, students in the study identified a handful of areas they would want changed in ‘Plan’. First, they found the system cumbersome to type everything in plain text on their phone, and that the strictly daily view of the app did not fit their style of planning weekly or ahead of time. Some people also found it much more difficult to visualize their time in this format, preferring a digital calendar. The authors listed a series of improvements they may make to ‘Plan’ based on this feedback, including: creating templates to add structure for those who desire it; adding a weekly or monthly view; making the application compatible for desktop computers; and adding a ‘view’ mode that translated the plain text into something that may be less cumbersome to interact with.
 
 **Key Points**
-- while most applications created for time management are structured, a more flexible and unstructured system can be beneficial for people who already have some experience with planning
-- 
+- While most applications created for time management are structured, a more flexible and unstructured system can be beneficial for people who already have some experience with planning.
+- Unstructured systems can also have drawbacks, as they can be cumbersome and may not provide the visualizations that users want.
