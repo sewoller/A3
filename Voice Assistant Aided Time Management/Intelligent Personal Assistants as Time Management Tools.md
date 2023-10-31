@@ -7,4 +7,6 @@ Following the discussion, thematic analysis was carried out on the data which he
 2) Multiparty Interaction
 3) Human-Assistant Interaction
 4) User Modelling
-Each of these categories serve to 
+Each of these categories serve to highlight distinct ways in which IPAs might be improved to incorporate more proactive methods of time management.
+
+Individual Time Management refers to 
