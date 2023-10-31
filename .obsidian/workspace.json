@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "Lumilo/Lumilo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "Lumilo/Lumilo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "Lumilo/Lumilo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md"
+                "file": "Lumilo/Lumilo.md"
               }
             }
           }
@@ -147,15 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
     "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
-    "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Lumilo/Lumilo.md",
-    "Sensing People’s Time Management Behaviors/Summary.md",
-    "Sensing People’s Time Management Behaviors",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Systems (prospective).md",
+    "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
+    "Sensing People’s Time Management Behaviors/Summary.md",
+    "Sensing People’s Time Management Behaviors",
     "Attention.md",
     "The Plan System/Screenshot 2023-10-31 at 2.41.51 PM.png",
     "conflict-files-obsidian-git.md",
