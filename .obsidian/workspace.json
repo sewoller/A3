@@ -11,8 +11,12 @@
             "id": "031e44cfbbb264a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LearnerExp/LearnerExp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LearnerExp/LearnerExp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LearnerExp/LearnerExp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LearnerExp/LearnerExp.md"
+              }
             }
           }
         ],
@@ -163,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031e44cfbbb264a5",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
+    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+    "LearnerExp/LearnerExp.md",
     "Time Management.md",
     "Cognition.md",
     "Systems (prospective).md",
@@ -179,11 +189,9 @@
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Lumilo/Lumilo.md",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
-    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Attention.md",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "the Plan System/Wiese, Lund, and Kabir (2023).pdf",
-    "LearnerExp/LearnerExp.md",
     "LearnerExp/He, Zheng, and Dong (2018).pdf",
     "Lumilo/Holstein et al. (2018).pdf",
     "Lund and Wiese (2021).md",
