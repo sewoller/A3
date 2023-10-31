@@ -4,30 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "70f7faf409277121",
+        "id": "84e52713168c6480",
         "type": "tabs",
         "children": [
           {
-            "id": "d3a4ef0ed2a444da",
+            "id": "fc76a42904585c6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+                "file": "LearnerExp/LearnerExp.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c3d328232f08875",
+            "id": "031e44cfbbb264a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Attention.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+                "file": "Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+                "file": "Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md"
+                "file": "Attention.md"
               }
             }
           }
@@ -155,37 +160,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3a4ef0ed2a444da",
+  "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
-    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-    "LearnerExp/LearnerExp.md",
     "A Tangible Approach to Time Management/2638728.2638794.pdf",
     "A Tangible Approach to Time Management",
-    "Unconfirmed 745148.crdownload",
-    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
-    "Attention.md",
-    "Cognition.md",
-    "Machine Learning (Potential ref page).md",
-    "Wearable Technology.md",
-    "Time Management.md",
+    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Voice Assistant Aided Time Management/3571884.3604317.pdf",
-    "Voice Assistant Aided Time Management/Unconfirmed 976883.crdownload",
-    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
-    "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
+    "Voice Assistant Aided Time Management",
+    "Machine Learning (Potential ref page).md",
+    "Cognition.md",
+    "Time Management.md",
+    "Wearable Technology.md",
+    "LearnerExp/LearnerExp.md",
+    "().md",
     "LearnerExp/3308558.3314140.pdf",
+    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
+    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "Administrative Info/Team Rules.md",
+    "Administrative Info/Deliverable 1.md",
+    "Attention.md",
+    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
-    "This.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
-    "Administrative Info/Deliverable 1.md",
-    "Administrative Info/Team Rules.md",
-    "Administrative Info/Members.md",
-    "().md",
-    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Untitled.canvas",
+    "LearnerExp/Unconfirmed 160493.crdownload",
+    "LearnerExp",
+    "Administrative Info/Members.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
     "Administrative Info/Assignment 3 Deliverables.md",
     "2023-10-22.md",
