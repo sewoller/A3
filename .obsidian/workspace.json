@@ -11,6 +11,14 @@
             "id": "031e44cfbbb264a5",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ec6edf1d933b62b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Systems (prospective).md",
@@ -18,8 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1e7154b6c257d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing for Cogntive Augmentation of Time Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems (prospective).md",
+                "file": "Computing for Cogntive Augmentation of Time Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems (prospective).md",
+                "file": "Computing for Cogntive Augmentation of Time Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems (prospective).md"
+                "file": "Computing for Cogntive Augmentation of Time Management.md"
               }
             }
           }
@@ -147,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031e44cfbbb264a5",
+  "active": "d1e7154b6c257d40",
   "lastOpenFiles": [
+    "Systems (prospective).md",
+    "Computing for Cogntive Augmentation of Time Management.md",
     "Screenshot 2023-10-31 at 2.41.39 PM.png",
     "the Plan System/the Plan System.md",
     "conflict-files-obsidian-git.md",
@@ -156,7 +179,6 @@
     "Screenshot 2023-10-31 at 2.42.01 PM.png",
     "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
-    "Systems (prospective).md",
     "Lumilo/Lumilo.md",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
