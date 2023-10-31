@@ -1,4 +1,5 @@
 **Summary of paper**
+[[Time Flies - Paper.pdf]]
   
 In this research from 2000, the focus was on understanding user behavior toward information technologies, particularly the concept of cognitive absorption. Cognitive absorption captures the holistic user experience with new software and includes temporal dissociation. The study found support for the relationships between cognitive absorption, individual traits, and technology acceptance beliefs.
 
