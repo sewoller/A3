@@ -1,1 +1,1 @@
-This paper [[3571884.3604317.pdf]] explores 
+This paper [[3571884.3604317.pdf]] explores the idea of using intelligent personal assistants (IPA) (Amazon Alexa, Siri, Google Assistant etc) as a tool for improving [[Time Management]].
