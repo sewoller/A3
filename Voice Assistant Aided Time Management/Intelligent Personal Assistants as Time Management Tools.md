@@ -1,4 +1,4 @@
-This paper [[3571884.3604317.pdf]] explores the idea of using intelligent personal assistants (IPA) (Amazon Alexa, Siri, Google Assistant etc.) as a tool for improving [[Time Management]]. Current IPA's posses enough functionality to carry out basic time management tasks such as scheduling something in a users calendar or sending a text message when prompted, but the authors of this paper conceptualize an IPA that is able to work proactively to enhance time management.
+This paper [[Jeromela and Conlan (2023).pdf]] explores the idea of using intelligent personal assistants (IPA) (Amazon Alexa, Siri, Google Assistant etc.) as a tool for improving [[Time Management]]. Current IPA's posses enough functionality to carry out basic time management tasks such as scheduling something in a users calendar or sending a text message when prompted, but the authors of this paper conceptualize an IPA that is able to work proactively to enhance time management.
 
 This study was carried out in the form of an expert discussion where ideas about proactive IPAs were shared with two professors, two associate professors and three PhD candidates. All of these experts have described significant levels of interest in fields related to the further development of IPAs. The discussion was carried out in person over a period of roughly 90 minutes where the responses from each participant were recorded, coded and anonymized. 
 
@@ -19,4 +19,6 @@ The final category of functionality is User Modelling, which refers to the abili
 
 
 **Key Points**
-	- Intelligent Personal Assistants (IPA) currently exist and provide very basic levels of time
+	- Intelligent Personal Assistants (IPA) currently exist and provide very basic levels of time management functionality to users.
+	- Researchers propose that adding advance levels of functionality to IPAs could have significant benefits for time management.
+	- An expert discussion was carried out which helped identify potential benefits and risks associated with these increased capabilities 
