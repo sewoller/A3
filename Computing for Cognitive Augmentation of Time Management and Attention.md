@@ -1,8 +1,3 @@
-Supports for [[Time Management]] and [[Attention]] have been studied for decades, and can vary from paper planners and their software equivalents to wearables and nootropics. Here we present a subset of existing systems that have been created by researchers, as well as a brief overview of terms.
+Supports for [[Time Management]] and [[Attention]] have been studied for decades, and can vary from paper planners and their software equivalents to wearables and nootropics. See [[Systems]] for an overview of a subset of existing systems that researchers have created.
 
-[[Systems]] for supporting [[attention]] through [[time management]] include:
-1. [[LearnerExp]]
-2. [[The Plan System]]
-3. [[A Tangible Approach to Time Management]]
-4. [[Intelligent Personal Assistants as Time Management Tools]]
-5. [[Lumilo]]
+Research has also been dedicated to learning more about how people use existing tools and systems for time management: see [[Guidelines for Future Time Management Systems]].
