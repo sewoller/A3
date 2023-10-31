@@ -9,4 +9,4 @@ Following the discussion, thematic analysis was carried out on the data which he
 4) User Modelling
 Each of these categories serve to highlight distinct ways in which IPAs might be improved to incorporate more proactive methods of time management.
 
-Individual Time Management refers to 
+Individual Time Management refers to ways in which an IPA could help a user manage time more effectively for tasks that do not involve any third party interaction, such as scheduling time for physical activity. 
