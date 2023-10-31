@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "70f7faf409277121",
+        "id": "84e52713168c6480",
         "type": "tabs",
         "children": [
           {
-            "id": "5ef785032f1e3e9d",
+            "id": "031e44cfbbb264a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LearnerExp/LearnerExp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LearnerExp/LearnerExp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LearnerExp/LearnerExp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LearnerExp/LearnerExp.md"
+              }
             }
           }
         ],
@@ -139,38 +147,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ef785032f1e3e9d",
+  "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
-    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
-    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
-    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
-    "LearnerExp/LearnerExp.md",
-    "conflict-files-obsidian-git.md",
+    "Attention.md",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "A Tangible Approach to Time Management/2638728.2638794.pdf",
     "A Tangible Approach to Time Management",
-    "Cognition.md",
-    "Attention.md",
-    "Wearable Technology.md",
-    "Time Management.md",
-    "Machine Learning (Potential ref page).md",
+    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Voice Assistant Aided Time Management/3571884.3604317.pdf",
-    "Voice Assistant Aided Time Management/Unconfirmed 976883.crdownload",
-    "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
+    "Voice Assistant Aided Time Management",
+    "Machine Learning (Potential ref page).md",
+    "Cognition.md",
+    "Time Management.md",
+    "Wearable Technology.md",
+    "LearnerExp/LearnerExp.md",
+    "().md",
     "LearnerExp/3308558.3314140.pdf",
+    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
+    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "Administrative Info/Team Rules.md",
+    "Administrative Info/Deliverable 1.md",
+    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
-    "This.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
-    "Administrative Info/Deliverable 1.md",
-    "Administrative Info/Team Rules.md",
-    "Administrative Info/Members.md",
-    "().md",
-    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Untitled.canvas",
     "LearnerExp/Unconfirmed 160493.crdownload",
+    "LearnerExp",
+    "Administrative Info/Members.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
     "Administrative Info/Assignment 3 Deliverables.md",
     "2023-10-22.md",
