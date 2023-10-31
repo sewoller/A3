@@ -6,7 +6,7 @@ Using data collected from a university Learning Management System (LMS), researc
 	3) Amount of interaction with other learners on the platform (chat & forum interaction)
 This data was used to create an "Activity Vector" which was recorded for each learner each day to create a calendar like display plotting the amount of activity each day. Trends in engagement were interpreted as time management strategies employed by learners
 
-The data was used to train a machine learning (ML) model which is used by the LearnerEXP system to predict course performance (GPA) based on the engagement and time management strategies used by each learner. At the time of publication, the ML model was on average over 70% accurate at predicting GPA based on time management behavior exhibited by students. 
+The data was used to train a [[Machine Learning (Potential ref page)]] (ML) model which is used by the LearnerEXP system to predict course performance (GPA) based on the engagement and time management strategies used by each learner. At the time of publication, the ML model was on average over 70% accurate at predicting GPA based on time management behavior exhibited by students. 
 
 This ML model was incorporated into an interactive dashboard that is designed to provide course administrators tools for visualizing the time management and engagement of their students. The dashboard was designed to provide a way for educators to visualize time management trends among groups of learners and identify individuals or groups of students who may be at risk of failing upcoming assessments.
 
