@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+                "file": "LearnerExp/LearnerEXP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+                "file": "LearnerExp/LearnerEXP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+                "file": "LearnerExp/LearnerEXP.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md"
+                "file": "LearnerExp/LearnerEXP.md"
               }
             }
           }
@@ -146,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "58eea74b82672978",
   "lastOpenFiles": [
-    "Untitled",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+    "LearnerExp/LearnerEXP.md",
+    "LearnerExp",
+    "Voice Assistant Aided Time Management",
     "Attention.md",
     "Cognition.md",
     "Wearable Technology.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
@@ -174,8 +176,6 @@
     "Examples/North America.md",
     "Cognitive engineering  cognitive augmentation  and information display.pdf",
     "Untitled.canvas",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation",
-    "Attention in Psychology, Neuroscience, and Machine Learning",
-    "Cognitive Absorbtion with IT tools"
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation"
   ]
 }
