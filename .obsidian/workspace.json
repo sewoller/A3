@@ -11,9 +11,11 @@
             "id": "d357a233ef782849",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf"
+                "file": "LearnerExp/LearnerExp.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
+                "file": "LearnerExp/LearnerExp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
+                "file": "LearnerExp/LearnerExp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf"
+                "file": "LearnerExp/LearnerExp.md"
               }
             }
           }
@@ -147,12 +149,12 @@
   },
   "active": "d357a233ef782849",
   "lastOpenFiles": [
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "LearnerExp/3308558.3314140.pdf",
     "LearnerExp/LearnerExp.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
     "This.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
     "Administrative Info/Deliverable 1.md",
     "Administrative Info/Team Rules.md",
     "Administrative Info/Members.md",
