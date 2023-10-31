@@ -1,4 +1,4 @@
-Based on previous work by [[Lund and Wiese (2021)]] that examined time planning strategies and created [[guidelines for future time management systems]], [[Wiese, Lund, and Kabir (2023)]] created the ‘Plan’ application.
+Based on previous work by [[Lund and Wiese (2021)]] that examined time planning strategies and created [[Guidelines for Future Time Management Systems]], [[Wiese, Lund, and Kabir (2023)]] created the ‘Plan’ application.
 
 Unique for its unstructured approach to time management, the ‘Plan’ system developed by [[Wiese, Lund, and Kabir (2023)]] is, in essence, an augmented text editor. Users are presented with a blank page that they can use as they see fit, with additional functionality added to support the assignment of times to tasks, task reminders, checkboxes, and integration with third party applications, while taking advantage of the flexibility of a text editor for ease of moving tasks and autonomy in how to plan.
 
