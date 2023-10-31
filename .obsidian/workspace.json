@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
+                "file": "Lumilo/Lumilo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
+                "file": "Lumilo/Lumilo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
+                "file": "Lumilo/Lumilo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md"
+                "file": "Lumilo/Lumilo.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
-    "Systems (prospective).md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
+    "Systems (prospective).md",
     "Attention.md",
     "The Plan System/Screenshot 2023-10-31 at 2.41.51 PM.png",
     "conflict-files-obsidian-git.md",
