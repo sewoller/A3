@@ -4,6 +4,6 @@ Using data collected from a university Learning Management System (LMS), researc
 	1) Engagement with course content (Videos, slide decks, etc.)
 	2) Time spent attending remote lectures
 	3) Amount of interaction with other learners on the platform (chat & forum interaction)
-This data was used to create an "Activity Vector" which was recorded for each learner each day to create a calendar like display plotting the amount of activity each day.
+This data was used to create an "Activity Vector" which was recorded for each learner each day to create a calendar like display plotting the amount of activity each day. Trends in engagement were interpreted as time management strategies employed by learners
 
-The data was used to train a machine learning (ML) model which is used by the LearnerEXP system to predict course performance (GPA) based on the engagement and time management o
+The data was used to train a machine learning (ML) model which is used by the LearnerEXP system to predict course performance (GPA) based on the engagement and time management strategies used by each learner. At the time of publication, the ML model was 
