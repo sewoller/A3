@@ -33,14 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing for Cogntive Augmentation of Time Management.md",
+                "file": "Time Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing for Cogntive Augmentation of Time Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing for Cogntive Augmentation of Time Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computing for Cogntive Augmentation of Time Management.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,10 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1e7154b6c257d40",
+  "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
+    "Time Management.md",
+    "Cognition.md",
     "Systems (prospective).md",
-    "Computing for Cogntive Augmentation of Time Management.md",
+    "Machine Learning (Potential ref page).md",
+    "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Screenshot 2023-10-31 at 2.41.39 PM.png",
     "the Plan System/the Plan System.md",
     "conflict-files-obsidian-git.md",
@@ -197,9 +195,6 @@
     "wearable devices.md",
     "Wearable Technology.md",
     "A Tangible Approach to Time Management",
-    "Machine Learning (Potential ref page).md",
-    "Cognition.md",
-    "Time Management.md",
     "().md",
     "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
     "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
