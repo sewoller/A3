@@ -1,1 +1,1 @@
-This research carried out in 2019 looks to identify how different [time management]() behaviors exhibited in students can have an impact on their expected academic performance
+This research carried out in 2019 looks to identify how different [time management]() behaviors exhibited in students can have an impact on their expected academic performance. As remote online learning has become more prevalent

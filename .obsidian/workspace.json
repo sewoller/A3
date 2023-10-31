@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Management.md",
+                "file": "LearnerExp/LearnerExp.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Management.md",
+                "file": "LearnerExp/LearnerExp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Management.md",
+                "file": "LearnerExp/LearnerExp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Management.md"
+                "file": "LearnerExp/LearnerExp.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
-    "LearnerExp/LearnerExp.md",
     "Time Management.md",
+    "LearnerExp/LearnerExp.md",
     "().md",
     "LearnerExp/3308558.3314140.pdf",
     "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
@@ -187,7 +187,6 @@
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
     "Administrative Info/Assignment 3 Deliverables.md",
     "Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
-    "Time Management.md",
     "2023-10-22.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Holstein et al. (2018).pdf",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers",
