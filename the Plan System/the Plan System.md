@@ -16,6 +16,6 @@ Ultimately, [[Wiese, Lund, and Kabir (2023).pdf]] found that people each plan in
 
 
 **Examples of System**
-![[Screenshot 2023-10-31 at 2.41.39 PM.png]]
-![[Screenshot 2023-10-31 at 2.42.01 PM.png]]
-![[Screenshot 2023-10-31 at 2.41.51 PM.png]]
+![[Plan System EX1.png]]
+![[Plan System EX2.png]]
+![[Plan System EX3.png]]

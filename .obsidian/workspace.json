@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lumilo/Lumilo.md",
+                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lumilo/Lumilo.md",
+                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lumilo/Lumilo.md",
+                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lumilo/Lumilo.md"
+                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md"
               }
             }
           }
@@ -147,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
-    "Lumilo/Screenshot 2023-10-31 at 4.04.02 PM.png",
-    "Lumilo/Screenshot 2023-10-31 at 4.03.50 PM.png",
-    "Lumilo/Holstein et al. (2018).pdf",
     "Lumilo/Lumilo.md",
+    "Lumilo/Holstein et al. (2018).pdf",
+    "The Plan System/Plan System EX1.png",
+    "Lumilo/Lumilo EX2.png",
+    "Lumilo/Lumilo EX1.png",
     "The Plan System/The Plan System.md",
     "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
@@ -161,7 +162,7 @@
     "Sensing People’s Time Management Behaviors/Summary.md",
     "Sensing People’s Time Management Behaviors",
     "Attention.md",
-    "The Plan System/Screenshot 2023-10-31 at 2.41.51 PM.png",
+    "The Plan System/Plan System EX3.png",
     "conflict-files-obsidian-git.md",
     "Pictures",
     "Administrative Info/Deliverable 1",
@@ -171,8 +172,7 @@
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Time Management.md",
     "Cognition.md",
-    "The Plan System/Screenshot 2023-10-31 at 2.41.39 PM.png",
-    "The Plan System/Screenshot 2023-10-31 at 2.42.01 PM.png",
+    "The Plan System/Plan System EX2.png",
     "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
