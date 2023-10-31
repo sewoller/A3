@@ -11,17 +11,11 @@
             "id": "031e44cfbbb264a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9b9a016a6061b1e1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf"
+                "file": "Lumilo/Lumilo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lumilo/Lumilo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lumilo/Lumilo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lumilo/Lumilo.md"
+              }
             }
           }
         ],
@@ -151,10 +149,26 @@
   },
   "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Lumilo/Lumilo.md",
+    "the Plan System/Screenshot 2023-10-31 at 2.42.01 PM.png",
+    "the Plan System/Screenshot 2023-10-31 at 2.41.51 PM.png",
+    "the Plan System/Screenshot 2023-10-31 at 2.41.39 PM.png",
+    "Administrative Info/Deliverable 1/Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Administrative Info/Deliverable 1/Cognitive Absorbtion with IT tools/Time Flies - Paper.pdf",
+    "Administrative Info/Deliverable 1/Cognitive Absorbtion with IT tools",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation",
+    "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
+    "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning",
+    "Administrative Info/Deliverable 1",
     "Attention in Psychology, Neuroscience, and Machine Learning/fncom-14-00029.pdf",
     "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "Administrative Info/Deliverable 1.md",
-    "conflict-files-obsidian-git.md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Systems (prospective).md",
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
@@ -165,17 +179,8 @@
     "Screenshot 2023-10-31 at 2.42.01 PM.png",
     "Screenshot 2023-10-31 at 2.41.51 PM.png",
     "Screenshot 2023-10-31 at 2.41.39 PM.png",
-    "the Plan System/Wiese, Lund, and Kabir (2023).pdf",
     "the Plan System/the Plan System.md",
-    "the Plan System",
-    "Lumilo/Lumilo.md",
-    "Lumilo/Holstein et al. (2018).pdf",
-    "Lumilo",
-    "LearnerExp/He, Zheng, and Dong (2018).pdf",
-    "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
-    "Guidelines for Future Time Management Systems",
-    "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Attention.md",
     "Cognition.md",
     "Time Management.md",
@@ -185,10 +190,6 @@
     "Administrative Info/Team Rules.md",
     "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
     "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
-    "Untitled.canvas",
-    "Administrative Info/Members.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md",
-    "Administrative Info/Assignment 3 Deliverables.md"
+    "Untitled.canvas"
   ]
 }
