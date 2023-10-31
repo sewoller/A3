@@ -13,4 +13,4 @@ This ML model was incorporated into an interactive dashboard that is designed to
 In the future the researchers state that they look to develop more features into LearnerExp and further improve its ML models for GPA prediction. Further investigation into time management patters and their impact on academic performance has the potential to create systems that can actively inform and adjust student study behavior to provide a more effective education experience.
 
 **Key Points**
-	-
+	- As online and remote learning become more prevalent, challenges 
