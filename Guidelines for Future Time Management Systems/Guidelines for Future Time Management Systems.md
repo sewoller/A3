@@ -11,6 +11,7 @@ To address this, [[Lund and Wiese (2021).pdf]] actually developed an application
 **Key Points**
 - Most people (graduate students) already have established planning practices that are highly variable
 	- each person tends to have their own planning workflow and tools they use
-	- people may use different tools and methods depending on context such as their workload at that moment,
+	- people may use different tools and methods depending on context such as their workload at that moment or the nature of the tasks they're completing.
+- People with established planning practices tend to use general purpose tools such as notes applications and pen and paper to plan, rather than dedicated applications like Todoist.
 - People with established planning practices may still benefit from more explicit/structured methods.
-- 
+- An less structured planning application could be beneficial - see [[the Plan System]]
