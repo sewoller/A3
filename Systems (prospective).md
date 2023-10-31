@@ -4,4 +4,3 @@ Systems for supporting[[ attention]] through [[time management]] include:
 3. [[A Tangible Approach to Time Management]]
 4. [[Intelligent Personal Assistants as Time Management Tools]]
 5. [[Lumilo]]
-6. 
