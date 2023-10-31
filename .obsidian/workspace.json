@@ -11,11 +11,9 @@
             "id": "031e44cfbbb264a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Plan System/The Plan System.md",
-                "mode": "source",
-                "source": false
+                "file": "The Plan System/Screenshot 2023-10-31 at 2.41.51 PM.png"
               }
             }
           },
@@ -109,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Plan System/Screenshot 2023-10-31 at 2.41.51 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Plan System/Screenshot 2023-10-31 at 2.41.51 PM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "The Plan System/Screenshot 2023-10-31 at 2.41.51 PM.png"
               }
             }
           }
@@ -185,7 +185,7 @@
     "Systems (prospective).md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "The Plan System/Screenshot 2023-10-31 at 2.41.39 PM.png",
-    "Screenshot 2023-10-31 at 2.41.51 PM.png",
+    "The Plan System/Screenshot 2023-10-31 at 2.41.51 PM.png",
     "The Plan System/Screenshot 2023-10-31 at 2.42.01 PM.png",
     "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
