@@ -19,4 +19,5 @@ The final category of functionality is User Modelling, which refers to the abili
 
 
 **Key Points**
-	- Intelligent Personal Assistants (IPA) currently exist and provide very basic levels of time
+	- Intelligent Personal Assistants (IPA) currently exist and provide very basic levels of time management functionality to users.
+	- Researchers propose that adding advance levels of functionality to IPAs could have significant impacts to 
