@@ -4,5 +4,6 @@ Using data collected from a university Learning Management System (LMS), researc
 	1) Engagement with course content (Videos, slide decks, etc.)
 	2) Time spent attending remote lectures
 	3) Amount of interaction with other learners on the platform (chat & forum interaction)
+This data was used to create an "Activity Vector" which was recorded for each learner each day to create a calendar like display plotting the amount of activity each day.
 
-This data was used to create an "Activity Vector" which was recorded for each learner each day to create a calendar like display plotting the 
+Once organized by learner, the information was used to train a 
