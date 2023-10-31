@@ -9,4 +9,8 @@ In line with these findings, [[Lund and Wiese (2021).pdf]] also found that the g
 To address this, [[Lund and Wiese (2021).pdf]] actually developed an application of their own ([[the Plan System]]) based on their findings, which they later tested in [[Wiese, Lund, and Kabir (2023).pdf]].
 
 **Key Points**
-- Most people (graduate) already have 
+- Most people (graduate students) already have established planning practices that are highly variable
+	- each person tends to have their own planning workflow and tools they use
+	- people may use different tools and methods depending on context such as their workload at that moment,
+- People with established planning practices may still benefit from more explicit/structured methods.
+- 
