@@ -18,3 +18,5 @@ The third category titled Human-Assistant Interaction, refers to an IPAs ability
 The final category of functionality is User Modelling, which refers to the ability of an IPA to responsibly use data collected from a user. Several participants in the discussion noted the risk that lies in the collection of user data by an IPA. The benefit afforded by this risk is realized in an IPAs ability to learn and make changes to better suit the users preferred style of time management. Several other discussion participants argued that incorporating this functionality would introduce too much risk especially in the context of interhuman interaction.
 
 
+**Key Points**
+	- Intelligent Personal Assistants (IPA) currently exist and provide very basic levels of time
