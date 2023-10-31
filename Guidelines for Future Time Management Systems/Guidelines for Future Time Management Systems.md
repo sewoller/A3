@@ -6,7 +6,7 @@ First, the time management behaviour of the graduate students in their study was
 
 In line with these findings, [[Lund and Wiese (2021).pdf]] also found that the graduate students in their study used a variety of tools to help them manage their time, but overall had a preference for flexible, general purpose systems like a notes app on their phone or computer, or a pen and paper rather than more structured, time-management-focused applications like Todoist. These general purpose systems usually allowed them to use imprecise times and rearrange or move tasks much more easily than more structured systems, and the students could use other applications to augment them were the general purpose systems fell short, such as for setting reminders. So, while most top time management and planning applications rely on heavily structured systems, [[Lund and Wiese (2021).pdf]] found that planning needed the ability to be flexible, imprecise, and somewhat personalized to the persons’ context for more people to use it.
 
-To address this, [[Lund and Wiese (2021).pdf]] actually developed an application of their own ([[the Plan System]]) based on their findings, which they later tested in [[Wiese, Lund, and Kabir (2023).pdf]].
+To address this, [[Lund and Wiese (2021).pdf]] actually developed an application of their own ([[The Plan System]]) based on their findings, which they later tested in [[Wiese, Lund, and Kabir (2023).pdf]].
 
 **Key Points**
 - Most people (graduate students) already have established planning practices that are highly variable
@@ -14,4 +14,4 @@ To address this, [[Lund and Wiese (2021).pdf]] actually developed an application
 	- people may use different tools and methods depending on context such as their workload at that moment or the nature of the tasks they're completing.
 - People with established planning practices tend to use general purpose tools such as notes applications and pen and paper to plan, rather than dedicated applications like Todoist.
 - People with established planning practices may still benefit from more explicit/structured methods.
-- An less structured planning application could be beneficial - see [[the Plan System]]
+- An less structured planning application could be beneficial - see [[The Plan System]]

@@ -11,8 +11,12 @@
             "id": "031e44cfbbb264a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Plan System/The Plan System.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Plan System/The Plan System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Plan System/The Plan System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Plan System/The Plan System.md"
+              }
             }
           }
         ],
@@ -163,47 +171,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031e44cfbbb264a5",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
+    "Pictures",
+    "Administrative Info/Deliverable 1",
+    "Attention.md",
+    "Wearable Technology.md",
+    "Machine Learning (Potential ref page).md",
     "LearnerExp/LearnerExp.md",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Time Management.md",
     "Cognition.md",
     "Systems (prospective).md",
-    "Machine Learning (Potential ref page).md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
-    "Screenshot 2023-10-31 at 2.41.39 PM.png",
-    "the Plan System/the Plan System.md",
+    "The Plan System/Screenshot 2023-10-31 at 2.41.39 PM.png",
+    "The Plan System/The Plan System.md",
     "conflict-files-obsidian-git.md",
     "Screenshot 2023-10-31 at 2.41.51 PM.png",
-    "Screenshot 2023-10-31 at 2.42.01 PM.png",
+    "The Plan System/Screenshot 2023-10-31 at 2.42.01 PM.png",
     "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Lumilo/Lumilo.md",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
-    "Attention.md",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
-    "the Plan System/Wiese, Lund, and Kabir (2023).pdf",
+    "The Plan System/Wiese, Lund, and Kabir (2023).pdf",
     "LearnerExp/He, Zheng, and Dong (2018).pdf",
     "Lumilo/Holstein et al. (2018).pdf",
     "Lund and Wiese (2021).md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Guidelines for Future Time Management Systems",
     "Wiese, Lund, and Kabir (2023).pdf",
-    "the Plan System",
+    "The Plan System",
     "planners.md",
     "wearable devices.md",
-    "Wearable Technology.md",
-    "A Tangible Approach to Time Management",
     "().md",
-    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
-    "Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "Administrative Info/Deliverable 1/Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "Administrative Info/Team Rules.md",
     "Administrative Info/Deliverable 1.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Untitled.canvas",
-    "Administrative Info/Members.md",
-    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics.md"
+    "Administrative Info/Members.md"
   ]
 }
