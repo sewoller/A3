@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "95860672af67bc72",
+        "id": "70f7faf409277121",
         "type": "tabs",
         "children": [
           {
-            "id": "c9317a0fd0cc2ae9",
+            "id": "d3a4ef0ed2a444da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Management.md",
+                "file": "Sensing People’s Time Management Behaviors/Summary.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7c3d328232f08875",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Management.md",
+                "file": "Sensing People’s Time Management Behaviors/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Management.md",
+                "file": "Sensing People’s Time Management Behaviors/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Management.md"
+                "file": "Sensing People’s Time Management Behaviors/Summary.md"
               }
             }
           }
@@ -147,48 +155,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "d3a4ef0ed2a444da",
   "lastOpenFiles": [
-    "Systems.md",
-    "The Plan System/The Plan System.md",
-    "Lumilo/Lumilo.md",
+    "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Sensing People’s Time Management Behaviors/Summary.md",
     "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
-    "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
-    "Computing for Cognitive Augmentation of Time Management and Attention.md",
-    "Lumilo/Holstein et al. (2018).pdf",
-    "The Plan System/Plan System EX1.png",
+    "Machine Learning (Potential ref page).md",
+    "the Plan System/the Plan System.md",
+    "the Plan System/Wiese, Lund, and Kabir (2023).pdf",
+    "the Plan System/Plan System EX3.png",
+    "the Plan System/Plan System EX2.png",
+    "the Plan System/Plan System EX1.png",
+    "the Plan System",
+    "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
+    "Systems.md",
+    "Sensing People’s Time Management Behaviors",
+    "Lumilo/Lumilo.md",
     "Lumilo/Lumilo EX2.png",
     "Lumilo/Lumilo EX1.png",
-    "Sensing People’s Time Management Behaviors",
-    "Attention.md",
-    "The Plan System/Plan System EX3.png",
-    "conflict-files-obsidian-git.md",
-    "Pictures",
-    "Administrative Info/Deliverable 1",
-    "Wearable Technology.md",
-    "Machine Learning (Potential ref page).md",
-    "LearnerExp/LearnerExp.md",
-    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-    "Time Management.md",
-    "Cognition.md",
-    "The Plan System/Plan System EX2.png",
-    "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
-    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
-    "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
-    "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
-    "The Plan System/Wiese, Lund, and Kabir (2023).pdf",
+    "Lumilo/Holstein et al. (2018).pdf",
+    "Lumilo",
     "LearnerExp/He, Zheng, and Dong (2018).pdf",
-    "Lund and Wiese (2021).md",
-    "planners.md",
-    "wearable devices.md",
-    "().md",
+    "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
+    "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
+    "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Administrative Info/Deliverable 1/Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
-    "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Administrative Info/Team Rules.md",
-    "Administrative Info/Deliverable 1.md",
     "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
     "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
+    "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "Wearable Technology.md",
+    "Time Management.md",
+    "Cognition.md",
+    "Attention.md",
+    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "LearnerExp/LearnerExp.md",
+    "The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary - The Classroom as a Dashboard; Co-designing WearableCognitive Augmentation for K-12 Teachers.md",
+    "Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
+    "This.md",
+    "Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+    "Administrative Info/Deliverable 1.md",
+    "Administrative Info/Team Rules.md",
     "Untitled.canvas"
   ]
 }
