@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,10 +152,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3a4ef0ed2a444da",
+  "active": "7c3d328232f08875",
   "lastOpenFiles": [
-    "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
+    "Systems.md",
+    "Computing for Cognitive Augmentation of Time Management and Attention.md",
+    "Time Management.md",
+    "Wearable Technology.md",
     "Sensing People’s Time Management Behaviors/Summary.md",
+    "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
     "Machine Learning (Potential ref page).md",
     "the Plan System/the Plan System.md",
@@ -168,7 +169,6 @@
     "the Plan System/Plan System EX1.png",
     "the Plan System",
     "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
-    "Systems.md",
     "Sensing People’s Time Management Behaviors",
     "Lumilo/Lumilo.md",
     "Lumilo/Lumilo EX2.png",
@@ -178,13 +178,10 @@
     "LearnerExp/He, Zheng, and Dong (2018).pdf",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
-    "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Administrative Info/Deliverable 1/Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
     "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
     "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Wearable Technology.md",
-    "Time Management.md",
     "Cognition.md",
     "Attention.md",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
