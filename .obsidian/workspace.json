@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Management.md",
+                "file": "Sensing People’s Time Management Behaviors/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Management.md",
+                "file": "Sensing People’s Time Management Behaviors/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Management.md",
+                "file": "Sensing People’s Time Management Behaviors/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Management.md"
+                "file": "Sensing People’s Time Management Behaviors/Summary.md"
               }
             }
           }
@@ -147,14 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "c9317a0fd0cc2ae9",
   "lastOpenFiles": [
+    "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
+    "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
+    "Time Management.md",
     "Systems.md",
     "The Plan System/The Plan System.md",
     "Lumilo/Lumilo.md",
     "Sensing People’s Time Management Behaviors/Summary.md",
-    "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
-    "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Lumilo/Holstein et al. (2018).pdf",
     "The Plan System/Plan System EX1.png",
@@ -170,7 +171,6 @@
     "Machine Learning (Potential ref page).md",
     "LearnerExp/LearnerExp.md",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-    "Time Management.md",
     "Cognition.md",
     "The Plan System/Plan System EX2.png",
     "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
