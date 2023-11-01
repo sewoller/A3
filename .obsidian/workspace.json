@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff1bd63a05c748e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,15 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9317a0fd0cc2ae9",
+  "active": "ff1bd63a05c748e6",
   "lastOpenFiles": [
+    "Sensing People’s Time Management Behaviors/Summary.md",
+    "conflict-files-obsidian-git.md",
     "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
     "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Time Management.md",
     "Systems.md",
     "The Plan System/The Plan System.md",
     "Lumilo/Lumilo.md",
-    "Sensing People’s Time Management Behaviors/Summary.md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Lumilo/Holstein et al. (2018).pdf",
     "The Plan System/Plan System EX1.png",
@@ -164,7 +178,6 @@
     "Sensing People’s Time Management Behaviors",
     "Attention.md",
     "The Plan System/Plan System EX3.png",
-    "conflict-files-obsidian-git.md",
     "Pictures",
     "Administrative Info/Deliverable 1",
     "Wearable Technology.md",
