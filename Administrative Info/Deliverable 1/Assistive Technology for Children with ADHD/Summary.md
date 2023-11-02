@@ -4,7 +4,7 @@ This paper focuses on assisting children with ADHD in improving their ability to
 
 The paper mentions other experiments done to improve such executive tasks, few of them are tailored for those diagnosed ADHD. The case study was done on 2 children, one for 2 weeks and the other for 4 weeks, where the research assistants explained the system in the beginning them came back at the end of the time period to collect data and ask the participants, including the parents, to fill out a questionnaire.
 
-TangiPan works by using six objects, reach representing a task, and a tablet application used to plan the tasks and their execution stages during the morning routine. Ideally, the child would map each object to a morning task and set an estimate time to complete it
+TangiPan works by using six objects, reach representing a task, and a tablet application used to plan the tasks and their execution stages during the morning routine. Ideally, the child would map each object to a morning task, the night before the morning routine, and set an estimate time to complete it
 
 Results and Conclusion:
 
