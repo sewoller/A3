@@ -4,3 +4,7 @@ Their innovation comprises a mechanical apparatus that employs marbles to symbol
 
 Once users engage in an activity (the activation method is not specified), the device initiates a 25-minute countdown. Upon the completion of this period, it drops one marble from the designated container into a 'finished' pile. The users then begin a 5-minute break, during which they can either relax or transition to another task. Should the last marble be released, an auditory alert from the device signals the end of the session, ensuring that users remain aware of their time management goals.
 
+The researchers' subsequent phase involves assessing the model's efficacy through user testing and investigating its impact on behavioral change.
+
+Key Points:
+- R. Ahmed, 
