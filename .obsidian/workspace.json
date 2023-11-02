@@ -37,7 +37,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
+                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf"
               }
             }
           }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5
   },
   "right": {
     "id": "5d1afbe2009c071e",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
+                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
+                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
+                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf"
               }
             }
           }
@@ -173,6 +173,8 @@
   "active": "9a38cf12d4fbf339",
   "lastOpenFiles": [
     "References.md",
+    "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
+    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Wearable Technology.md",
     "Sensing People’s Time Management Behaviors/Summary.md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
@@ -194,12 +196,10 @@
     "Pictures",
     "Administrative Info/Deliverable 1",
     "LearnerExp/LearnerExp.md",
-    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Cognition.md",
     "The Plan System/Plan System EX2.png",
     "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
-    "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "The Plan System/Wiese, Lund, and Kabir (2023).pdf",
     "LearnerExp/He, Zheng, and Dong (2018).pdf",
@@ -212,7 +212,6 @@
     "Administrative Info/Team Rules.md",
     "Administrative Info/Deliverable 1.md",
     "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
-    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
     "Untitled.canvas"
   ]
 }

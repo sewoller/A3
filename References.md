@@ -1,0 +1,1 @@
+[[Ahmed et al. (2014).pdf]] : Ahmed Ryan, Chambers Alex, Frontz Michael, and Voida Stephen. 2014. A tangible approach to time management. In _Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication._Association for Computing Machinery, New York, NY, 207–210.
