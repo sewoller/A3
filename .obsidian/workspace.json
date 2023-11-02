@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
+                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
+                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
+                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
+                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "9a38cf12d4fbf339",
   "lastOpenFiles": [
-    "Lumilo/Holstein et al. (2018).pdf",
-    "References.md",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
+    "References.md",
+    "Lumilo/Holstein et al. (2018).pdf",
     "LearnerExp/He, Zheng, and Dong (2018).pdf",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Sensing People’s Time Management Behaviors/Summary.md",
