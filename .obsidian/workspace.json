@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "95860672af67bc72",
+        "id": "f30d98e9a31f95bc",
         "type": "tabs",
         "children": [
           {
-            "id": "c9317a0fd0cc2ae9",
+            "id": "8537c0dae929b1c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff1bd63a05c748e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems/The Plan System/The Plan System.md",
+                "file": "Definitions/Wearable Technology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/The Plan System/The Plan System.md",
+                "file": "Definitions/Wearable Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/The Plan System/The Plan System.md",
+                "file": "Definitions/Wearable Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/The Plan System/The Plan System.md"
+                "file": "Definitions/Wearable Technology.md"
               }
             }
           }
@@ -160,9 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff1bd63a05c748e6",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
+    "Definitions/Attention.md",
+    "cognition.md",
     "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+    "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
+    "Systems/Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
+    "Systems/The Plan System/The Plan System.md",
     "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Systems/Sensing People’s Time Management Behaviors/Macan and Shahani (1990).pdf",
     "Systems/Lumilo/Lumilo.md",
@@ -177,17 +171,12 @@
     "conflict-files-obsidian-git.md",
     "References.md",
     "CCA for Time Management.md",
-    "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Initial Validation of an Assistive Technology to Enhance Executive Functioning Among Children with ADHD.pdf",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD",
-    "Systems/The Plan System/The Plan System.md",
-    "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
-    "Systems/Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
     "Definitions/Time Management.md",
     "Definitions/Machine Learning.md",
     "Definitions/Wearable Technology.md",
-    "Definitions/Attention.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Definitions",
     "Systems/The Plan System/Wiese, Lund, and Kabir (2023).pdf",
@@ -204,7 +193,6 @@
     "wearable devices.md",
     "().md",
     "Administrative Info/Deliverable 1/Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
-    "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "Untitled.canvas"
   ]
 }
