@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCA of Time Management.md"
+                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "ff1bd63a05c748e6",
   "lastOpenFiles": [
+    "References.md",
+    "CCA for Time Management.md",
     "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
     "Systems/LearnerExp/LearnerEXP EX2.png",
     "Systems/LearnerExp/LearnerEXP EX1.png",
@@ -181,7 +183,6 @@
     "Definitions/Machine Learning.md",
     "Definitions/Wearable Technology.md",
     "Definitions/Attention.md",
-    "CCA of Time Management.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Definitions",
     "Systems/The Plan System/Wiese, Lund, and Kabir (2023).pdf",
@@ -191,7 +192,6 @@
     "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Assistive Technology for Children with ADHD/Summary.md",
     "Systems",
-    "References.md",
     "Systems/Systems.md",
     "Cognition.md",
     "conflict-files-obsidian-git.md",
