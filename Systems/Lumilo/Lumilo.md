@@ -5,5 +5,5 @@ Lumilo is a [[Wearable Technology]] system developed by [[Holstein et al. (2018)
 - The additional information from the smartglasses can help teacher's more efficiently manage their time to help the students who may benefit the most from their support.
 
 **Examples of System**
-Teacher view of system:
+Teacher view when using the system. The system has two modes: a simple (left) and elaborate (right) mode, which shows basic information about the whole class or more in-depth information about a particular students' performance, controlled by a remote 
 ![[Lumilo EX1.png]]![[Lumilo EX2.png]]
