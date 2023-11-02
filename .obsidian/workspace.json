@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f30d98e9a31f95bc",
+        "id": "f5a6604ecdbedbe4",
         "type": "tabs",
         "children": [
           {
-            "id": "8537c0dae929b1c7",
+            "id": "d19dd38a2a3a9570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCA for Time Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74a9ac36b909fcc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dbf1f7fd941ed33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "5d1afbe2009c071e",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md"
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md"
               }
             }
           }
@@ -147,51 +172,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8537c0dae929b1c7",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
-    "Systems/Sensing People’s Time Management Behaviors/Macan and Shahani (1990).pdf",
+    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary - Assistive Technology for Children with ADHD.md",
+    "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
+    "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "Systems/LearnerExp/LearnerExp.md",
     "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
-    "Systems/Systems.md",
+    "conflict-files-obsidian-git.md",
+    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
     "CCA for Time Management.md",
-    "Definitions/Time Management.md",
+    "Systems/Sensing People’s Time Management Behaviors/Macan and Shahani (1990).pdf",
+    "References.md",
+    "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
+    "Systems/Systems.md",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/Spearmint Trial Summary.md",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/attention-enhancing effects of spearmint extract.pdf",
+    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
+    "Administrative Info/Deliverable 1/Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
+    "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
+    "Systems/The Plan System/The Plan System.md",
+    "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+    "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
+    "Systems/Sensing People’s Time Management Behaviors/Summary.md",
+    "Systems/LearnerExp/He, Zheng, and Dong (2018).pdf",
+    "Systems/LearnerExp/LearnerEXP EX2.png",
+    "Systems/Lumilo/Lumilo.md",
+    "Systems/The Plan System/Plan System EX3.png",
+    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Initial Validation of an Assistive Technology to Enhance Executive Functioning Among Children with ADHD.pdf",
+    "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
+    "Systems/Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
+    "CCA of Time Management.md",
+    "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
+    "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Definitions/Machine Learning.md",
     "Definitions/Wearable Technology.md",
+    "Definitions/Time Management.md",
     "Definitions/Attention.md",
-    "References.md",
-    "cognition.md",
-    "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
-    "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
-    "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
     "Systems/Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
-    "Systems/The Plan System/The Plan System.md",
-    "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
-    "Systems/Lumilo/Lumilo.md",
-    "Systems/Lumilo/Holstein et al. (2018).pdf",
-    "Systems/LearnerExp/LearnerExp.md",
-    "Systems/LearnerExp/LearnerExp EX2.png",
-    "Systems/LearnerExp/LearnerExp EX1.png",
-    "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
-    "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-    "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
-    "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
-    "conflict-files-obsidian-git.md",
-    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Initial Validation of an Assistive Technology to Enhance Executive Functioning Among Children with ADHD.pdf",
-    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
-    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD",
-    "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
-    "Definitions",
-    "Systems/The Plan System/Wiese, Lund, and Kabir (2023).pdf",
+    "Systems/LearnerExp/LearnerEXP EX1.png",
+    "Systems/Voice Assistant Aided Time Management/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
+    "Systems/Voice Assistant Aided Time Management/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "Lumilo/Lumilo.md",
+    "Systems/The Plan System/Plan System EX2.png",
     "Systems/The Plan System/Plan System EX1.png",
-    "Assistive Technology for Children with ADHD/Summary.md",
-    "Cognition.md",
     "Systems/Lumilo/Lumilo EX2.png",
     "Systems/Lumilo/Lumilo EX1.png",
-    "Systems/The Plan System/Plan System EX3.png",
-    "Systems/The Plan System/Plan System EX2.png",
-    "Lund and Wiese (2021).md",
-    "planners.md",
-    "wearable devices.md",
-    "().md",
+    "the Plan System/Screenshot 2023-10-31 at 2.42.01 PM.png",
     "Untitled.canvas"
   ]
 }
