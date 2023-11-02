@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a93a73ffc6cb9d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,13 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031e44cfbbb264a5",
+  "active": "a93a73ffc6cb9d96",
   "lastOpenFiles": [
+    "Systems/Sensing People’s Time Management Behaviors/Summary.md",
+    "conflict-files-obsidian-git.md",
     "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Systems/Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
     "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
-    "Systems/Sensing People’s Time Management Behaviors/Summary.md",
     "Systems/Systems.md",
     "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
@@ -162,7 +176,6 @@
     "Definitions/Wearable Technology.md",
     "Definitions/Time Management.md",
     "Definitions/Attention.md",
-    "conflict-files-obsidian-git.md",
     "Systems/Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
     "Systems/LearnerExp/LearnerEXP EX2.png",
     "Systems/LearnerExp/LearnerEXP EX1.png",
@@ -176,7 +189,6 @@
     "Systems/Voice Assistant Aided Time Management",
     "Systems/Voice Assistant Aided Time Management.zip",
     "Lumilo/Lumilo.md",
-    "Definitions",
     "Systems/The Plan System/The Plan System.md",
     "Systems/The Plan System/Plan System EX2.png",
     "Systems/The Plan System/Plan System EX3.png",
