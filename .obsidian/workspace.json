@@ -160,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff1bd63a05c748e6",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
+    "Definitions",
     "Systems/The Plan System/The Plan System.md",
     "Systems/The Plan System/Wiese, Lund, and Kabir (2023).pdf",
     "Systems/The Plan System/Plan System EX1.png",
@@ -173,12 +174,12 @@
     "Systems",
     "CCA of Time Management.md",
     "References.md",
-    "Systems.md",
+    "Systems/Systems.md",
     "Cognition.md",
-    "Attention.md",
-    "Time Management.md",
-    "Wearable Technology.md",
-    "Machine Learning.md",
+    "Definitions/Attention.md",
+    "Definitions/Time Management.md",
+    "Definitions/Wearable Technology.md",
+    "Definitions/Machine Learning.md",
     "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",

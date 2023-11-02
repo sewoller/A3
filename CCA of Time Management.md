@@ -1,6 +1,10 @@
-(Time management - quick description) -> give context on what we're looking at
 
 
+Some helpful definitions:
+- [[Time Management]]
+- [[Attention]]
+- [[Machine Learning]]
+- [[Wearable Technology]]
 
 Supports for [[Time Management]] and [[Attention]] have been studied for decades and can vary from paper planners and their software equivalents to wearables and nootropics - see [[Systems]] for an overview of a subset of existing systems that researchers have created.
 
