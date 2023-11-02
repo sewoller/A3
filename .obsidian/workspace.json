@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d411d756b4373e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCA of Time Management.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -149,10 +161,10 @@
   },
   "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
+    "Systems/Sensing People’s Time Management Behaviors/Summary.md",
     "conflict-files-obsidian-git.md",
     "CCA of Time Management.md",
     "CCA for Time Management.md",
-    "Systems/Sensing People’s Time Management Behaviors/Summary.md",
     "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Systems/Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
     "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
