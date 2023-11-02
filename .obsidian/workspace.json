@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+                "file": "Wearable Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+                "file": "Wearable Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+                "file": "Wearable Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md"
+                "file": "Wearable Technology.md"
               }
             }
           }
@@ -160,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "ff1bd63a05c748e6",
   "lastOpenFiles": [
+    "Attention.md",
+    "Wearable Technology.md",
+    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
@@ -169,7 +172,6 @@
     "Time Management.md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Cognition.md",
-    "Wearable Technology.md",
     "LearnerExp/LearnerExp.md",
     "LearnerExp/He, Zheng, and Dong (2018).pdf",
     "Lumilo/Lumilo.md",
@@ -188,11 +190,8 @@
     "Lumilo/Lumilo EX2.png",
     "Lumilo/Lumilo EX1.png",
     "Sensing People’s Time Management Behaviors",
-    "Attention.md",
     "The Plan System/Plan System EX3.png",
     "Pictures",
-    "Administrative Info/Deliverable 1",
-    "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "The Plan System/Plan System EX2.png",
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Lund and Wiese (2021).md",
