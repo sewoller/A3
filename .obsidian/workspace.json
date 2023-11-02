@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems.md",
+                "file": "Wearable Technology.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a38cf12d4fbf339",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md"
+                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
               }
             }
           }
@@ -160,15 +170,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "9a38cf12d4fbf339",
   "lastOpenFiles": [
+    "References.md",
+    "Wearable Technology.md",
+    "Sensing People’s Time Management Behaviors/Summary.md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Systems.md",
     "Time Management.md",
     "Machine Learning (Potential ref page).md",
-    "Wearable Technology.md",
     "conflict-files-obsidian-git.md",
-    "Sensing People’s Time Management Behaviors/Summary.md",
     "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
     "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "The Plan System/The Plan System.md",
