@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf"
+                "file": "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf"
               }
             }
           }
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 225.5
   },
   "right": {
     "id": "5d1afbe2009c071e",
@@ -159,13 +159,14 @@
   },
   "active": "c9317a0fd0cc2ae9",
   "lastOpenFiles": [
+    "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
+    "References.md",
     "Lumilo/Lumilo.md",
     "Lumilo/Lumilo EX2.png",
     "Lumilo/Lumilo EX1.png",
     "Lumilo/Holstein et al. (2018).pdf",
     "LearnerExp/He, Zheng, and Dong (2018).pdf",
-    "References.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Sensing People’s Time Management Behaviors/Summary.md",
@@ -177,7 +178,6 @@
     "Time Management.md",
     "Machine Learning (Potential ref page).md",
     "conflict-files-obsidian-git.md",
-    "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "The Plan System/The Plan System.md",
     "The Plan System/Plan System EX1.png",
     "Sensing People’s Time Management Behaviors",
