@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Wearable Technology.md",
+                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Wearable Technology.md",
+                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Wearable Technology.md",
+                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/Wearable Technology.md"
+                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md"
               }
             }
           }
@@ -162,19 +162,23 @@
   },
   "active": "ff1bd63a05c748e6",
   "lastOpenFiles": [
-    "Definitions/Machine Learning.md",
+    "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
+    "Systems/LearnerExp/LearnerExp.md",
+    "Systems/Lumilo/Lumilo.md",
+    "Systems/The Plan System/The Plan System.md",
+    "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "Systems/Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
     "Definitions/Time Management.md",
-    "Definitions/Attention.md",
+    "Definitions/Machine Learning.md",
     "Definitions/Wearable Technology.md",
+    "Definitions/Attention.md",
     "CCA of Time Management.md",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Definitions",
-    "Systems/The Plan System/The Plan System.md",
     "Systems/The Plan System/Wiese, Lund, and Kabir (2023).pdf",
     "Systems/The Plan System/Plan System EX1.png",
     "Systems/Sensing People’s Time Management Behaviors/Summary.md",
-    "Systems/Lumilo/Lumilo.md",
     "Systems/Lumilo/Holstein et al. (2018).pdf",
     "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Assistive Technology for Children with ADHD/Summary.md",
@@ -183,17 +187,13 @@
     "Systems/Systems.md",
     "Cognition.md",
     "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-    "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
-    "Systems/LearnerExp/LearnerExp.md",
     "Systems/LearnerExp/He, Zheng, and Dong (2018).pdf",
     "conflict-files-obsidian-git.md",
     "Assistive Technology for Children with ADHD/zuckerman2015.pdf",
-    "Assistive Technology for Children with ADHD",
     "Systems/Lumilo/Lumilo EX2.png",
     "Systems/Lumilo/Lumilo EX1.png",
     "Systems/The Plan System/Plan System EX3.png",
     "Systems/The Plan System/Plan System EX2.png",
-    "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Lund and Wiese (2021).md",
     "planners.md",
     "wearable devices.md",
