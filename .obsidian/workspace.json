@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "Lumilo/Lumilo.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "Lumilo/Lumilo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "Lumilo/Lumilo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCA of Time Management.md"
+                "file": "Lumilo/Lumilo.md"
               }
             }
           }
@@ -162,12 +162,12 @@
   },
   "active": "ff1bd63a05c748e6",
   "lastOpenFiles": [
+    "CCA of Time Management.md",
     "References.md",
     "Systems.md",
     "Cognition.md",
     "Sensing People’s Time Management Behaviors/Summary.md",
     "Attention.md",
-    "CCA of Time Management.md",
     "Time Management.md",
     "Wearable Technology.md",
     "Machine Learning.md",
