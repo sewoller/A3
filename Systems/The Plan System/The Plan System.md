@@ -9,7 +9,7 @@ In general, students in the study identified a handful of areas they would want 
 Ultimately, [[Wiese, Lund, and Kabir (2023).pdf]] found that people each plan in a way that works for them, and supporting their existing workflow is integral to people continuing to use an application. The 'Plan' system is just one option that people can use out of several that may work better for them.
 
 **Key Points**
-- the 'Plan' system is an augmented plaintext editor, adding support for support the assignment of times to tasks, task reminders, checkboxes, and integration with third party applications like Canvas, to the flexibility of plain text.
+- The 'Plan' system is an augmented plaintext editor, adding support for support the assignment of times to tasks, task reminders, checkboxes, and integration with third-party applications like Canvas, to the flexibility of plain text.
 - While most applications created for time management are structured, a more flexible and unstructured system can be beneficial for people who already have some experience with planning.
 - Unstructured systems can also have drawbacks, as they can be cumbersome and may not provide the visualizations that users want.
 - Different systems work well for different people, and people tend to only continue to use the application if it works well for them.
