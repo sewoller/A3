@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wearable Technology.md",
+                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wearable Technology.md",
+                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wearable Technology.md",
+                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wearable Technology.md"
+                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "ff1bd63a05c748e6",
   "lastOpenFiles": [
-    "Attention.md",
     "Wearable Technology.md",
+    "Attention.md",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
