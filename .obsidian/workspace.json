@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db981544ae18a5e8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,11 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40d384aa60cd6d41",
+  "active": "db981544ae18a5e8",
   "lastOpenFiles": [
+    "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
     "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-    "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Initial Validation of an Assistive Technology to Enhance Executive Functioning Among Children with ADHD.pdf",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/zuckerman2015.pdf",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
