@@ -25,11 +25,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lumilo/Holstein et al. (2018).pdf"
+                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References.md",
+                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References.md",
+                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References.md"
+                "file": "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
               }
             }
           }
@@ -157,16 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9317a0fd0cc2ae9",
+  "active": "9a38cf12d4fbf339",
   "lastOpenFiles": [
     "Lumilo/Holstein et al. (2018).pdf",
-    "LearnerExp/He, Zheng, and Dong (2018).pdf",
     "References.md",
+    "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
+    "LearnerExp/He, Zheng, and Dong (2018).pdf",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Sensing People’s Time Management Behaviors/Summary.md",
     "Wearable Technology.md",
     "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Systems.md",
