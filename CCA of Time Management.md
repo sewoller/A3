@@ -1,6 +1,6 @@
+Time management 
 
-
-Some helpful definitions:
+Some helpful definitions for along the way:
 - [[Time Management]]
 - [[Attention]]
 - [[Machine Learning]]
