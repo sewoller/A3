@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -172,15 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dbf1f7fd941ed33",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
+    "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "conflict-files-obsidian-git.md",
     "Systems/LearnerExp/LearnerExp.md",
     "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
-    "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary - Assistive Technology for Children with ADHD.md",
     "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
-    "conflict-files-obsidian-git.md",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
     "CCA for Time Management.md",
     "Systems/Sensing People’s Time Management Behaviors/Macan and Shahani (1990).pdf",
