@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "95860672af67bc72",
+        "id": "53396b6941ed6236",
         "type": "tabs",
         "children": [
           {
-            "id": "c9317a0fd0cc2ae9",
+            "id": "5811144a69990a1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff1bd63a05c748e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCA of Time Management.md",
+                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5
   },
   "right": {
     "id": "5d1afbe2009c071e",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCA of Time Management.md",
+                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCA of Time Management.md"
+                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md"
               }
             }
           }
@@ -160,48 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff1bd63a05c748e6",
+  "active": "5811144a69990a1f",
   "lastOpenFiles": [
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
-    "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-    "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
-    "Systems/LearnerExp/LearnerExp.md",
-    "Systems/Lumilo/Lumilo.md",
-    "Systems/The Plan System/The Plan System.md",
-    "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
-    "Systems/Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
-    "Definitions/Time Management.md",
-    "Definitions/Machine Learning.md",
-    "Definitions/Wearable Technology.md",
-    "Definitions/Attention.md",
-    "CCA of Time Management.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
-    "Definitions",
-    "Systems/The Plan System/Wiese, Lund, and Kabir (2023).pdf",
-    "Systems/The Plan System/Plan System EX1.png",
-    "Systems/Sensing People’s Time Management Behaviors/Summary.md",
-    "Systems/Lumilo/Holstein et al. (2018).pdf",
-    "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
-    "Assistive Technology for Children with ADHD/Summary.md",
-    "Systems",
-    "References.md",
-    "Systems/Systems.md",
-    "Cognition.md",
-    "Systems/LearnerExp/He, Zheng, and Dong (2018).pdf",
-    "conflict-files-obsidian-git.md",
+    "Definitions/Wearable Technology.md",
+    "Definitions/Time Management.md",
+    "Definitions/Attention.md",
+    "Definitions/Machine Learning.md",
     "Assistive Technology for Children with ADHD/zuckerman2015.pdf",
-    "Systems/Lumilo/Lumilo EX2.png",
-    "Systems/Lumilo/Lumilo EX1.png",
+    "Assistive Technology for Children with ADHD/Summary.md",
+    "Cognition.md",
+    "Systems/Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
+    "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "Systems/The Plan System/Wiese, Lund, and Kabir (2023).pdf",
+    "Systems/The Plan System/The Plan System.md",
     "Systems/The Plan System/Plan System EX3.png",
     "Systems/The Plan System/Plan System EX2.png",
-    "Lund and Wiese (2021).md",
-    "planners.md",
-    "wearable devices.md",
-    "().md",
-    "Administrative Info/Deliverable 1/Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
-    "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Administrative Info/Team Rules.md",
-    "Administrative Info/Deliverable 1.md",
+    "Systems/The Plan System/Plan System EX1.png",
+    "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
+    "Systems/Sensing People’s Time Management Behaviors/Summary.md",
+    "Systems/Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
+    "Systems/Lumilo/Lumilo.md",
+    "Systems/Lumilo/Lumilo EX2.png",
+    "Systems/Lumilo/Lumilo EX1.png",
+    "Systems/Lumilo/Holstein et al. (2018).pdf",
+    "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
+    "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+    "Systems/LearnerExp/LearnerExp.md",
+    "Systems/LearnerExp/He, Zheng, and Dong (2018).pdf",
+    "Systems/Voice Assistant Aided Time Management",
+    "Systems/Systems.md",
+    "CCA of Time Management.md",
+    "Computing for Cognitive Augmentation of Time Management and Attention.md",
+    "References.md",
+    "Wearable Technology.md",
+    "Time Management.md",
+    "Systems.md",
+    "Machine Learning (Potential ref page).md",
+    "Attention.md",
+    "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+    "the Plan System/the Plan System.md",
+    "the Plan System/Plan System EX3.png",
+    "the Plan System/Plan System EX2.png",
+    "the Plan System/Plan System EX1.png",
+    "Lumilo/Lumilo.md",
+    "Lumilo/Lumilo EX2.png",
+    "Lumilo/Lumilo EX1.png",
     "Untitled.canvas"
   ]
 }
