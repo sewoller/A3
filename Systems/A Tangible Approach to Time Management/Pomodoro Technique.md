@@ -1,0 +1,1 @@
+The Pomodoro Technique is a method intended to increase efficiency and assist with [[time management]]. 

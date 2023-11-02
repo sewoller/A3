@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/A Tangible Approach to Time Management/Untitled.md",
+                "file": "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/A Tangible Approach to Time Management/Untitled.md",
+                "file": "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/A Tangible Approach to Time Management/Untitled.md",
+                "file": "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/A Tangible Approach to Time Management/Untitled.md"
+                "file": "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md"
               }
             }
           }
@@ -187,10 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "091017b06729c553",
   "lastOpenFiles": [
     "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-    "Systems/A Tangible Approach to Time Management/Untitled.md",
+    "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
+    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/zuckerman2015.pdf",
+    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
+    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD",
     "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
@@ -216,8 +219,6 @@
     "Systems/Lumilo/Lumilo EX1.png",
     "Systems/Lumilo/Holstein et al. (2018).pdf",
     "Systems/LearnerExp/LearnerExp.md",
-    "Systems/LearnerExp/He, Zheng, and Dong (2018).pdf",
-    "Systems/Voice Assistant Aided Time Management",
     "Systems/Systems.md",
     "CCA of Time Management.md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
@@ -228,11 +229,9 @@
     "Machine Learning (Potential ref page).md",
     "Attention.md",
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
-    "the Plan System/the Plan System.md",
     "the Plan System/Plan System EX3.png",
     "the Plan System/Plan System EX2.png",
     "the Plan System/Plan System EX1.png",
-    "Lumilo/Lumilo.md",
     "Lumilo/Lumilo EX2.png",
     "Lumilo/Lumilo EX1.png",
     "Untitled.canvas"
