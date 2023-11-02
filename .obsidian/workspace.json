@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f930e614e3c535f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensing People’s Time Management Behaviors/Summary.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -160,16 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "4f930e614e3c535f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Sensing People’s Time Management Behaviors/Summary.md",
     "References.md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
     "Systems.md",
     "Time Management.md",
     "Machine Learning (Potential ref page).md",
     "Wearable Technology.md",
-    "conflict-files-obsidian-git.md",
-    "Sensing People’s Time Management Behaviors/Summary.md",
     "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
     "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "The Plan System/The Plan System.md",

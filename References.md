@@ -8,4 +8,6 @@
 
 [[College Students' Time Management - Correlations With Academic Performance and Stress.pdf]] : Macan, T. H., Shahani, C., Dipboye, R. L., & Phillips, A. P. (1990). "College students' time management: Correlations with academic performance and stress". _Journal of Educational Psychology, 82_(4), 760–768.
 
-[[Yang, Chen, and Xuan (2018).pdf]] : C. Yang, Y. Chen, Y Xuan, ()
+[[Yang, Chen, and Xuan (2018).pdf]] : C. Yang, Y. Chen, Y Xuan, (2018). "Sensing People's Time Management Behaviors: A Study Using Wearable Devices". *SenSys '18: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems*, 416-417. 
+
+[[Wiese, Lund, and Kabir (2023).pdf]] : J. Wiese, J.R. Lund, K.S. Kabir, (2023). 
