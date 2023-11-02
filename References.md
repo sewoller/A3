@@ -4,5 +4,8 @@
 
 [[He, Zheng, and Dong (2018).pdf]] : H. He, Q. Zheng and B. Dong, (2019). "Learnerexp: exploring and explaining the time management of online learning activity", _The World Wide Web Conference_, 3521-3525.
 
-[[Holstein et al. (2018).pdf]] : K. Holstein, G. Hong, M. Tegene, B.M. McLaren, V. Aleven, (2018). "The classroom as a dashboard: Co-Designing wearable cognitive augmentation for K-12 teachers". *Proceedings of the 8th international conference on learning Analytics and knowledge (2018), pp. 79-88, [10.1145/3170358.3170377](https://doi.org/10.1145/3170358.3170377)
+[[Holstein et al. (2018).pdf]] : K. Holstein, G. Hong, M. Tegene, B.M. McLaren, V. Aleven, (2018). "The classroom as a dashboard: Co-Designing wearable cognitive augmentation for K-12 teachers". *Proceedings of the 8th international conference on learning Analytics and knowledge (2018)*, 79-88.
 
+[[College Students' Time Management - Correlations With Academic Performance and Stress.pdf]] : Macan, T. H., Shahani, C., Dipboye, R. L., & Phillips, A. P. (1990). "College students' time management: Correlations with academic performance and stress". _Journal of Educational Psychology, 82_(4), 760–768.
+
+[[Yang, Chen, and Xuan (2018).pdf]] : 
