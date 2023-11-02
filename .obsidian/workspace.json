@@ -11,11 +11,9 @@
             "id": "5811144a69990a1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-                "mode": "source",
-                "source": false
+                "file": "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+                "file": "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+                "file": "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md"
+                "file": "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
               }
             }
           }
@@ -146,10 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58eea74b82672978",
+  "active": "5811144a69990a1f",
   "lastOpenFiles": [
-    "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
+    "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Definitions/Wearable Technology.md",
