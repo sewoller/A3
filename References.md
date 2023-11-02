@@ -1,1 +1,3 @@
 [[Ahmed et al. (2014).pdf]] : Ahmed Ryan, Chambers Alex, Frontz Michael, and Voida Stephen. 2014. A tangible approach to time management. In _Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication._Association for Computing Machinery, New York, NY, 207–210.
+
+[[lund]] : John R. Lund and Jason Wiese. 2021. Less is More: Exploring Support for Time Management Planning. In Designing Interactive Systems Conference 2021. ACM, Virtual Event USA, 392–405. https://doi.org/10.1145/3461778.3462133
