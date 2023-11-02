@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dbf1f7fd941ed33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/LearnerExp/LearnerExp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -160,13 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74a9ac36b909fcc5",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
+    "Systems/LearnerExp/LearnerExp.md",
     "conflict-files-obsidian-git.md",
+    "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
     "CCA for Time Management.md",
     "Systems/Sensing People’s Time Management Behaviors/Macan and Shahani (1990).pdf",
-    "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
     "References.md",
     "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Systems/Systems.md",
@@ -176,7 +187,6 @@
     "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
     "Administrative Info/Deliverable 1/Cognitive Absorbtion with IT tools/Time Flies When You're Having Fun Cognitive Absorption and Beliefs about Information Technology Usage.md",
     "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "Systems/LearnerExp/LearnerExp.md",
     "Systems/The Plan System/The Plan System.md",
     "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
