@@ -6,7 +6,7 @@
 
 [[Holstein et al. (2018).pdf]] : K. Holstein, G. Hong, M. Tegene, B.M. McLaren, V. Aleven, (2018). "The classroom as a dashboard: Co-Designing wearable cognitive augmentation for K-12 teachers". *Proceedings of the 8th international conference on learning Analytics and knowledge (2018)*, 79-88.
 
-[[College Students' Time Management - Correlations With Academic Performance and Stress.pdf]] : Macan, T. H., Shahani, C., Dipboye, R. L., & Phillips, A. P. (1990). "College students' time management: Correlations with academic performance and stress". _Journal of Educational Psychology, 82_(4), 760–768.
+[[Macan and Shahani (1990).pdf]] : Macan, T. H., Shahani, C., Dipboye, R. L., & Phillips, A. P. (1990). "College students' time management: Correlations with academic performance and stress". _Journal of Educational Psychology, 82_(4), 760–768.
 
 [[Yang, Chen, and Xuan (2018).pdf]] : C. Yang, Y. Chen, Y Xuan, (2018). "Sensing People's Time Management Behaviors: A Study Using Wearable Devices". *SenSys '18: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems*, 416-417. 
 
