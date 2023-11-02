@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
+                "file": "Cognition.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
+                "file": "Cognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md",
+                "file": "Cognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing for Cognitive Augmentation of Time Management and Attention.md"
+                "file": "Cognition.md"
               }
             }
           }
@@ -162,28 +162,28 @@
   },
   "active": "ff1bd63a05c748e6",
   "lastOpenFiles": [
-    "Wearable Technology.md",
+    "Systems.md",
+    "Cognition.md",
+    "References.md",
     "Attention.md",
+    "Computing for Cognitive Augmentation of Time Management and Attention.md",
+    "Time Management.md",
+    "Wearable Technology.md",
+    "Machine Learning.md",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "The Plan System/The Plan System.md",
-    "Time Management.md",
-    "Computing for Cognitive Augmentation of Time Management and Attention.md",
-    "Cognition.md",
     "LearnerExp/LearnerExp.md",
     "LearnerExp/He, Zheng, and Dong (2018).pdf",
     "Lumilo/Lumilo.md",
     "Lumilo/Holstein et al. (2018).pdf",
-    "Systems.md",
     "conflict-files-obsidian-git.md",
     "Assistive Technology for Children with ADHD/zuckerman2015.pdf",
     "Assistive Technology for Children with ADHD/Summary.md",
     "Assistive Technology for Children with ADHD",
     "Sensing People’s Time Management Behaviors/Summary.md",
-    "References.md",
-    "Machine Learning (Potential ref page).md",
     "Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
     "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "The Plan System/Plan System EX1.png",
