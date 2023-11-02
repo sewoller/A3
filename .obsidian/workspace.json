@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lumilo/Holstein et al. (2018).pdf",
+                "file": "References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lumilo/Holstein et al. (2018).pdf",
+                "file": "References.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lumilo/Holstein et al. (2018).pdf"
+                "file": "References.md"
               }
             }
           }
@@ -158,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a38cf12d4fbf339",
+  "active": "c9317a0fd0cc2ae9",
   "lastOpenFiles": [
+    "Lumilo/Holstein et al. (2018).pdf",
     "LearnerExp/He, Zheng, and Dong (2018).pdf",
     "References.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
@@ -177,7 +177,6 @@
     "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "The Plan System/The Plan System.md",
     "Lumilo/Lumilo.md",
-    "Lumilo/Holstein et al. (2018).pdf",
     "The Plan System/Plan System EX1.png",
     "Lumilo/Lumilo EX2.png",
     "Lumilo/Lumilo EX1.png",
