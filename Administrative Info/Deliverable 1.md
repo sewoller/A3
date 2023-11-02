@@ -25,5 +25,5 @@ https://www.youtube.com/watch?v=QgbLb6QCK88 (How to use obsidian for beginners)
 |William Bourgeois| Cognitive absorption with IT tools | |
 |Laura Paul| The Classroom as a Dashboard; Co-designing Wearable Cognitive Augmentation for K-12 Teachers/Summary | |
 |Jordan Grubisich| Attention in psychology, neuroscience, and machine learning| |
-|Baraa Daoud| | |
+|Baraa Daoud| Assistive Technology for Children with ADHD, and Sensing People's Time Management Behaviours | |
 
