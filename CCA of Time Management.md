@@ -1,4 +1,4 @@
-Time management is generally a set of behaviours that aim to use time effectively when performing tasks.
+Time management is generally a set of behaviours for the allocation of time for the effective performance of tasks.
 
 Time management is defined as a set of “behaviours that aim at achieving an effective use of time while performing certain goal-directed activities”. These skills are important and valuable. Past work has shown that the application of time management strategies is positively correlated with academic performance and job performance. Furthermore, time management strategies have been shown to positively relate to stress-related outcomes including perceived control of time, job satisfaction, and health
 
