@@ -7,4 +7,6 @@ Once users engage in an activity (the activation method is not specified), the d
 The researchers' subsequent phase involves assessing the model's efficacy through user testing and investigating its impact on behavioral change.
 
 Key Points:
-- R. Ahmed, 
+- R. Ahmed, M Frontz, A Chambers, and S. Voida have proposed a physical rime representation device using marbles to help users estimate and track time for tasks. 
+- The core idea is that human time perception is subjective and can lead to poor time management.
+- The device initiates a 25-minute countdown, dropping marbles to signify completed intervals, followed by a 5-minute break. This follows the Pomodoros System. 
