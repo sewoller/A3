@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Systems/LearnerExp/LearnerExp.md",
+=======
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Systems/LearnerExp/LearnerExp.md",
+=======
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +158,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Systems/LearnerExp/LearnerExp.md"
+=======
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -172,6 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "0dbf1f7fd941ed33",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
@@ -182,6 +195,14 @@
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary - Assistive Technology for Children with ADHD.md",
     "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
+=======
+  "active": "4796a10fdef51b18",
+  "lastOpenFiles": [
+    "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
+    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary - Assistive Technology for Children with ADHD.md",
+    "Systems/Sensing People’s Time Management Behaviors/Macan and Shahani (1990).pdf",
+    "Systems/Systems.md",
+>>>>>>> Stashed changes
     "CCA for Time Management.md",
     "Systems/Sensing People’s Time Management Behaviors/Macan and Shahani (1990).pdf",
     "References.md",
