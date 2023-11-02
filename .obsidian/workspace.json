@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2b3b6485c1429876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems (prospective).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -174,10 +162,10 @@
   },
   "active": "1ff54083a2a24c86",
   "lastOpenFiles": [
+    "Systems (prospective).md",
+    "conflict-files-obsidian-git.md",
     "Sensing People’s Time Management Behaviors/3274783.3278482.pdf",
     "Lumilo/Lumilo.md",
-    "conflict-files-obsidian-git.md",
-    "Systems (prospective).md",
     "Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Lumilo/Holstein et al. (2018).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
