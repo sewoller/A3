@@ -25,11 +25,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf"
+                "file": "Lumilo/Holstein et al. (2018).pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References.md",
+                "file": "Lumilo/Holstein et al. (2018).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References.md",
+                "file": "Lumilo/Holstein et al. (2018).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References.md"
+                "file": "Lumilo/Holstein et al. (2018).pdf"
               }
             }
           }
@@ -157,13 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9317a0fd0cc2ae9",
+  "active": "9a38cf12d4fbf339",
   "lastOpenFiles": [
-    "Sensing People’s Time Management Behaviors/Summary.md",
+    "LearnerExp/He, Zheng, and Dong (2018).pdf",
+    "References.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
+    "Sensing People’s Time Management Behaviors/Summary.md",
     "Wearable Technology.md",
     "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
-    "References.md",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Computing for Cognitive Augmentation of Time Management and Attention.md",
@@ -190,7 +192,6 @@
     "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
-    "The Plan System/Wiese, Lund, and Kabir (2023).pdf",
     "Lund and Wiese (2021).md",
     "planners.md",
     "wearable devices.md",
