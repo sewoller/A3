@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References.md",
+                "file": "Definitions/Time Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References.md",
+                "file": "Definitions/Time Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References.md",
+                "file": "Definitions/Time Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References.md"
+                "file": "Definitions/Time Management.md"
               }
             }
           }
@@ -147,13 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4796a10fdef51b18",
+  "active": "8537c0dae929b1c7",
   "lastOpenFiles": [
-    "CCA for Time Management.md",
-    "Definitions/Time Management.md",
     "Definitions/Machine Learning.md",
     "Definitions/Wearable Technology.md",
     "Definitions/Attention.md",
+    "CCA for Time Management.md",
+    "References.md",
+    "Definitions/Time Management.md",
     "cognition.md",
     "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
     "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
@@ -173,7 +174,6 @@
     "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "conflict-files-obsidian-git.md",
-    "References.md",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Initial Validation of an Assistive Technology to Enhance Executive Functioning Among Children with ADHD.pdf",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD",
