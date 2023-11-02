@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References.md",
+                "file": "Cognition.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9a38cf12d4fbf339",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References.md",
+                "file": "Cognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References.md",
+                "file": "Cognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References.md"
+                "file": "Cognition.md"
               }
             }
           }
@@ -159,11 +149,18 @@
   },
   "active": "c9317a0fd0cc2ae9",
   "lastOpenFiles": [
+    "Computing for Cognitive Augmentation of Time Management and Attention.md",
+    "References.md",
+    "Wearable Technology.md",
+    "Time Management.md",
+    "Systems.md",
+    "Machine Learning (Potential ref page).md",
+    "Attention.md",
+    "Cognition.md",
     "Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
     "Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "the Plan System/the Plan System.md",
     "the Plan System/Wiese, Lund, and Kabir (2023).pdf",
-    "References.md",
     "the Plan System/Plan System EX3.png",
     "the Plan System/Plan System EX2.png",
     "the Plan System/Plan System EX1.png",
@@ -177,23 +174,15 @@
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Sensing People’s Time Management Behaviors/Summary.md",
-    "Wearable Technology.md",
     "Administrative Info/Deliverable 1/Attention in Psychology, Neuroscience, and Machine Learning/Summary - Attention in Psychology, Neuroscience, and Machine Learning.md",
     "A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-    "Computing for Cognitive Augmentation of Time Management and Attention.md",
-    "Systems.md",
-    "Time Management.md",
-    "Machine Learning (Potential ref page).md",
     "conflict-files-obsidian-git.md",
     "The Plan System/The Plan System.md",
     "The Plan System/Plan System EX1.png",
     "Sensing People’s Time Management Behaviors",
-    "Attention.md",
     "The Plan System/Plan System EX3.png",
     "Pictures",
-    "Administrative Info/Deliverable 1",
     "LearnerExp/LearnerExp.md",
-    "Cognition.md",
     "The Plan System/Plan System EX2.png",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "Lund and Wiese (2021).md",

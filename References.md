@@ -10,6 +10,7 @@
 
 [[Yang, Chen, and Xuan (2018).pdf]] : C. Yang, Y. Chen, Y Xuan, (2018). "Sensing People's Time Management Behaviors: A Study Using Wearable Devices". *SenSys '18: Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems*, 416-417. 
 
-[[Wiese, Lund, and Kabir (2023).pdf]] : J. Wiese, J.R. Lund, K.S. Kabir, (2023). "Adding Domain-Specific Features to a Text-Editor to Support Diverse, Real-World Approaches to Time Management Planning". *CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems*, Article no 856, p 1-13. 
+[[Wiese, Lund, and Kabir (2023).pdf]] : J. Wiese, J.R. Lund, K.S. Kabir, (2023). "Adding Domain-Specific Features to a Text-Editor to Support Diverse, Real-World Approaches to Time Management Planning". *CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems*, Article no. 856, p 1-13. 
 
-[[Jeromela and Conlan (2023).pdf]] : J. Jeromela, O. Conlan, ()
+[[Jeromela and Conlan (2023).pdf]] : J. Jeromela, O. Conlan, (2023). "Voicing Suggestions and Enabling Reflection: Results of an Expert Discussion on Proactive Assistants for Time Management". *CUI '23: Proceedings of the 5th International Conference on Conversational User Interfaces*, Article no. 48, p 1-6. 
+
