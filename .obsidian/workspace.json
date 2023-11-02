@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/The Plan System/The Plan System.md",
+                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "5d1afbe2009c071e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/The Plan System/The Plan System.md",
+                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/The Plan System/The Plan System.md",
+                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/The Plan System/The Plan System.md"
+                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
+    "Systems/The Plan System/The Plan System.md",
     "References.md",
     "Systems/Sensing People’s Time Management Behaviors/Summary.md",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
@@ -180,7 +181,6 @@
     "Systems/Voice Assistant Aided Time Management/Voice Assistant Aided Time Management",
     "Systems/Voice Assistant Aided Time Management",
     "Lumilo/Lumilo.md",
-    "Systems/The Plan System/The Plan System.md",
     "Systems/The Plan System/Plan System EX2.png",
     "Systems/The Plan System/Plan System EX3.png",
     "Systems/The Plan System/Plan System EX1.png",
