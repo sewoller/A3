@@ -18,4 +18,4 @@ Second are task-related factors. This deals with finding and analyzing patterns 
 
 Third are external factors. These include the location, time during the day, and special occasions like weekends, holidays, user's occupation, etc.
 
-The paper concluded that using wearables to detect moments of distractions can help the user identify reasons for it as well as implement mitigation measures for the future. Moreover, time management APPs can be designed to automate this process by limiting mptifications which are not important or urgent
+The paper concluded that using wearables to detect moments of distractions can help the user identify reasons for it as well as implement mitigation measures for the future. Moreover, time management APPs can be designed to automate this process by limiting unimportant/nonurgent notifications while focusing.
