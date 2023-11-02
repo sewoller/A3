@@ -1,4 +1,4 @@
-Summary of [[3274783.3278482.pdf]]
+Summary of [[Yang, Chen, and Xuan (2018).pdf]]
 
 This paper focuses on the effectiveness of time management applications at improving the efficiency of getting work done by regulating the type of notifications showed based on the user's location. By recognizing the pattern between a user's location and their focus on task completion, smartphones can then adapt to being less distractive by limiting their notifications for instance. Improving time management is directly related to an improved academic and work performance, live a more efficient life, and deal with less emotionally stress as shown by [[College Students' Time Management - Correlations With Academic Performance and Stress.pdf]] which suggests this is worth pursuing.
 
@@ -18,4 +18,4 @@ Second are task-related factors. This deals with finding and analyzing patterns 
 
 Third are external factors. These include the location, time during the day, and special occasions like weekends, holidays, user's occupation, etc.
 
-The paper concluded
+The paper concluded that using wearables to detect moments of distractions can help the user identify reasons for it as well as implement mitigation measures for the future. Moreover, time management APPs can be designed to automate this process by limiting mptifications which are not important or urgent

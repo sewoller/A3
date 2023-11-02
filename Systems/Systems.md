@@ -1,7 +1,4 @@
-Guidelines/Background:
-- [[Guidelines for Future Time Management Systems]]
-
-[[Systems]] for supporting [[attention]] through [[time management]] include:
+Some existing systems for [[CCA of Time Management]] include:
 1. [[LearnerExp]]
 2. [[The Plan System]]
 3. [[A Tangible Approach to Time Management]]
