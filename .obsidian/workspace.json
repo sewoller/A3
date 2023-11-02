@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -172,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dbf1f7fd941ed33",
+  "active": "4796a10fdef51b18",
   "lastOpenFiles": [
-    "Systems/LearnerExp/LearnerExp.md",
+    "References.md",
     "conflict-files-obsidian-git.md",
+    "Systems/LearnerExp/LearnerExp.md",
     "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
@@ -184,7 +183,6 @@
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
     "CCA for Time Management.md",
     "Systems/Sensing People’s Time Management Behaviors/Macan and Shahani (1990).pdf",
-    "References.md",
     "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Systems/Systems.md",
     "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/Nootropics as Cognitive Enhancers.pdf",
