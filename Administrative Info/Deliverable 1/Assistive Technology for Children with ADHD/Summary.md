@@ -1,1 +1,1 @@
-TO BE DONE (Shouldn't take long)
+Summary of [[Initial Validation of an Assistive Technology to Enhance Executive Functioning Among Children with ADHD.pdf]]
