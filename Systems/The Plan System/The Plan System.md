@@ -16,6 +16,11 @@ Ultimately, [[Wiese, Lund, and Kabir (2023).pdf]] found that people each plan in
 
 
 **Examples of System**
+Overall interface:
 ![[Plan System EX1.png]]
+
+Example usages of the Plan System: a more elaborate scheduling system....
 ![[Plan System EX2.png]]
+
+... and a less elaborate scheduling usage:
 ![[Plan System EX3.png]]

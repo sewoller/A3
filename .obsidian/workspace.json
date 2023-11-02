@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "CCA of Time Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "CCA of Time Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md",
+                "file": "CCA of Time Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Sensing People’s Time Management Behaviors/Summary.md"
+                "file": "CCA of Time Management.md"
               }
             }
           }
@@ -162,9 +162,12 @@
   },
   "active": "ff1bd63a05c748e6",
   "lastOpenFiles": [
+    "Systems/The Plan System/The Plan System.md",
+    "Systems/The Plan System/Wiese, Lund, and Kabir (2023).pdf",
+    "Systems/The Plan System/Plan System EX1.png",
+    "Systems/Sensing People’s Time Management Behaviors/Summary.md",
     "Systems/Lumilo/Lumilo.md",
     "Systems/Lumilo/Holstein et al. (2018).pdf",
-    "Systems/Sensing People’s Time Management Behaviors/Summary.md",
     "Systems/Sensing People’s Time Management Behaviors/Yang, Chen, and Xuan (2018).pdf",
     "Assistive Technology for Children with ADHD/Summary.md",
     "Systems",
@@ -180,17 +183,14 @@
     "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
-    "Systems/The Plan System/The Plan System.md",
     "Systems/LearnerExp/LearnerExp.md",
     "Systems/LearnerExp/He, Zheng, and Dong (2018).pdf",
     "conflict-files-obsidian-git.md",
     "Assistive Technology for Children with ADHD/zuckerman2015.pdf",
     "Assistive Technology for Children with ADHD",
     "Systems/Sensing People’s Time Management Behaviors/College Students' Time Management - Correlations With Academic Performance and Stress.pdf",
-    "Systems/The Plan System/Plan System EX1.png",
     "Systems/Lumilo/Lumilo EX2.png",
     "Systems/Lumilo/Lumilo EX1.png",
-    "Systems/Sensing People’s Time Management Behaviors",
     "Systems/The Plan System/Plan System EX3.png",
     "Systems/The Plan System/Plan System EX2.png",
     "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
