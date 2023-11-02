@@ -8,47 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5811144a69990a1f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf"
-              }
-            }
-          },
-          {
             "id": "40d384aa60cd6d41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "be2eca9d4470201f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d6727cb42b06c6ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "091017b06729c553",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "091017b06729c553",
+  "active": "40d384aa60cd6d41",
   "lastOpenFiles": [
-    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Initial Validation of an Assistive Technology to Enhance Executive Functioning Among Children with ADHD.pdf",
+    "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
+    "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Initial Validation of an Assistive Technology to Enhance Executive Functioning Among Children with ADHD.pdf",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/zuckerman2015.pdf",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD",
-    "Systems/A Tangible Approach to Time Management/Ahmed et al. (2014).pdf",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Definitions/Wearable Technology.md",
@@ -218,7 +177,6 @@
     "Systems/Lumilo/Lumilo.md",
     "Systems/Lumilo/Lumilo EX2.png",
     "Systems/Lumilo/Lumilo EX1.png",
-    "Systems/Lumilo/Holstein et al. (2018).pdf",
     "Systems/LearnerExp/LearnerExp.md",
     "Systems/Systems.md",
     "CCA of Time Management.md",

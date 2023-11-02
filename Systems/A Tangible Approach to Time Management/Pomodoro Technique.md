@@ -9,4 +9,7 @@ Method:
 4. Then enjoy a five-minute break.
 5. After four pomodoros, take a longer, more restorative 15-30 minute break.
 
-The practice also includes three rules that 
+The practice also includes three rules to increase effectiveness:
+1. **Break down complex projects.** If a task requires more than four pomodoros, it needs to be divided into smaller, actionable steps. Sticking to this rule will help ensure you make clear progress on your projects.
+2. **Small tasks go together.** Any tasks that will take less than one Pomodoro should be combined with other simple tasks. For example, "write rent check," "set vet appointment," and "read Pomodoro article" could go together in one session.
+3. **Once a pomodoro is set, it must ring.** The pomodoro is an indivisible unit of time and can not be broken, especially not to check incoming emails, team chats, or text messages. Any ideas, tasks, or requests that come up should be noted to return to later. 
