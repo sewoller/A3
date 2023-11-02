@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md"
+                "file": "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "031e44cfbbb264a5",
   "lastOpenFiles": [
-    "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
+    "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
+    "Systems/Systems.md",
+    "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
+    "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
     "Definitions/Machine Learning.md",
     "Definitions/Wearable Technology.md",
     "Definitions/Time Management.md",
@@ -158,8 +161,6 @@
     "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "conflict-files-obsidian-git.md",
     "Systems/Voice Assistant Aided Time Management/Jeromela and Conlan (2023).pdf",
-    "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
-    "Systems/Systems.md",
     "Systems/LearnerExp/LearnerEXP EX2.png",
     "Systems/LearnerExp/LearnerEXP EX1.png",
     "Systems/LearnerExp/LearnerExp.md",
@@ -178,12 +179,10 @@
     "Systems/The Plan System/Plan System EX2.png",
     "Systems/The Plan System/Plan System EX3.png",
     "Systems/The Plan System/Plan System EX1.png",
-    "Systems/The Plan System",
     "Systems/Sensing People’s Time Management Behaviors/Summary.md",
     "Systems/Lumilo/Lumilo.md",
     "Systems/Lumilo/Lumilo EX2.png",
     "Systems/Lumilo/Lumilo EX1.png",
-    "Systems/A Tangible Approach to Time Management/A Tangible Approach to Time Management.md",
     "Systems/A Tangible Approach to Time Management/Pomodoro Technique.md",
     "Administrative Info/Deliverable 1/Assistive Technology for Children with ADHD/Summary.md",
     "Systems (prospective).md",
