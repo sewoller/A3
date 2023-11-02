@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Time Management.md",
+                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Time Management.md",
+                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Time Management.md",
+                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/Time Management.md"
+                "file": "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md"
               }
             }
           }
@@ -149,14 +149,15 @@
   },
   "active": "8537c0dae929b1c7",
   "lastOpenFiles": [
+    "Systems/Systems.md",
+    "CCA for Time Management.md",
+    "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
+    "Definitions/Time Management.md",
     "Definitions/Machine Learning.md",
     "Definitions/Wearable Technology.md",
     "Definitions/Attention.md",
-    "CCA for Time Management.md",
     "References.md",
-    "Definitions/Time Management.md",
     "cognition.md",
-    "Systems/Sensing People’s Time Management Behaviors/A Time Management App for Wearable Devices.md",
     "Administrative Info/Deliverable 1/Attention-Enhancing Effects of Spearmint Extract Supplementation/nootropics.md",
     "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Systems/Voice Assistant Aided Time Management/Voice Aided Time Management EX1.png",
@@ -182,7 +183,6 @@
     "Systems/The Plan System/Wiese, Lund, and Kabir (2023).pdf",
     "Systems/The Plan System/Plan System EX1.png",
     "Assistive Technology for Children with ADHD/Summary.md",
-    "Systems/Systems.md",
     "Cognition.md",
     "Systems/Lumilo/Lumilo EX2.png",
     "Systems/Lumilo/Lumilo EX1.png",
