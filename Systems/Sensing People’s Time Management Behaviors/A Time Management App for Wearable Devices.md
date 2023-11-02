@@ -11,3 +11,8 @@ For certain apps like phone calls or SMS texts, the smartphone will beep or ring
 Along with this, three other factors were recorded. First are smartphone-related factors. This includes notifications that caused the distraction or general app usage for when the user gets bored. Second are task-related factors. This deals with finding and analyzing patterns such as at what point during the task was the user the most or least focused/distracted. Third are external factors. These include the location, time during the day, and special occasions like weekends, holidays, user's occupation, etc.
 
 The paper concluded that using [[Wearable Technology]] to detect moments of distraction can help the user identify reasons for it as well as implement mitigation measures for the future. Moreover, time management APPs can be designed to automate this process by limiting unimportant/non-urgent notifications while focusing.
+
+**Key Points:**
+- Wearables can be integrated with [[Machine Learning|machine learning]] to automate the detection of locations and associating it when areas of study/work.
+- Smartwatches can be used as a minimalist device that only displays task-related progress and leaves little room for distractibility unlike a smartphone.
+- Analysis on the data collected can be presented to the user to allow for self-correcting behavior by finding patterns correlated with decreased attention.
