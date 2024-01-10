@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f30d98e9a31f95bc",
+        "id": "84544a73dac2a322",
         "type": "tabs",
         "children": [
           {
-            "id": "8537c0dae929b1c7",
+            "id": "2aa0814e49a86a1d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -145,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8537c0dae929b1c7",
+  "active": "2aa0814e49a86a1d",
   "lastOpenFiles": [
-    "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "Guidelines for Future Time Management Systems/Lund and Wiese (2021).pdf",
+    "Guidelines for Future Time Management Systems/Guidelines for Future Time Management Systems.md",
     "CCA for Time Management.md",
     "Systems/Voice Assistant Aided Time Management/Intelligent Personal Assistants as Time Management Tools.md",
     "Systems/LearnerExp/LearnerExp.md",
